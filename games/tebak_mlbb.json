@@ -1,1 +1,758 @@
-[]
+[
+  {
+    "index": 0,
+    "hero": "Aamon",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/aamon.png",
+    "jawaban": "Aamon"
+  },
+  {
+    "index": 1,
+    "hero": "Akai",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/akai.png",
+    "jawaban": "Akai"
+  },
+  {
+    "index": 2,
+    "hero": "Aldous",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/aldous.png",
+    "jawaban": "Aldous"
+  },
+  {
+    "index": 3,
+    "hero": "Alice",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/alice.png",
+    "jawaban": "Alice"
+  },
+  {
+    "index": 4,
+    "hero": "Alpha",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/alpha.png",
+    "jawaban": "Alpha"
+  },
+  {
+    "index": 5,
+    "hero": "Alucard",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/alucard.png",
+    "jawaban": "Alucard"
+  },
+  {
+    "index": 6,
+    "hero": "Angela",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/angela.png",
+    "jawaban": "Angela"
+  },
+  {
+    "index": 7,
+    "hero": "Argus",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/argus.png",
+    "jawaban": "Argus"
+  },
+  {
+    "index": 8,
+    "hero": "Arlott",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/arlott.png",
+    "jawaban": "Arlott"
+  },
+  {
+    "index": 9,
+    "hero": "Atlas",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/atlas.png",
+    "jawaban": "Atlas"
+  },
+  {
+    "index": 10,
+    "hero": "Aulus",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/aulus.png",
+    "jawaban": "Aulus"
+  },
+  {
+    "index": 11,
+    "hero": "Aurora",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/aurora.png",
+    "jawaban": "Aurora"
+  },
+  {
+    "index": 12,
+    "hero": "Badang",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/badang.png",
+    "jawaban": "Badang"
+  },
+  {
+    "index": 13,
+    "hero": "Balmond",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/balmond.png",
+    "jawaban": "Balmond"
+  },
+  {
+    "index": 14,
+    "hero": "Bane",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/bane.png",
+    "jawaban": "Bane"
+  },
+  {
+    "index": 15,
+    "hero": "Barats",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/barats.png",
+    "jawaban": "Barats"
+  },
+  {
+    "index": 16,
+    "hero": "Baxia",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/baxia.png",
+    "jawaban": "Baxia"
+  },
+  {
+    "index": 17,
+    "hero": "Beatrix",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/beatrix.png",
+    "jawaban": "Beatrix"
+  },
+  {
+    "index": 18,
+    "hero": "Belerick",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/belerick.png",
+    "jawaban": "Belerick"
+  },
+  {
+    "index": 19,
+    "hero": "Benedetta",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/benedetta.png",
+    "jawaban": "Benedetta"
+  },
+  {
+    "index": 20,
+    "hero": "Brody",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/brody.png",
+    "jawaban": "Brody"
+  },
+  {
+    "index": 21,
+    "hero": "Bruno",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/bruno.png",
+    "jawaban": "Bruno"
+  },
+  {
+    "index": 22,
+    "hero": "Carmilla",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/carmilla.png",
+    "jawaban": "Carmilla"
+  },
+  {
+    "index": 23,
+    "hero": "Cecilion",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/cecilion.png",
+    "jawaban": "Cecilion"
+  },
+  {
+    "index": 24,
+    "hero": "Chang'e",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/change.png",
+    "jawaban": "Chang'e"
+  },
+  {
+    "index": 25,
+    "hero": "Chip",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/chip.png",
+    "jawaban": "Chip"
+  },
+  {
+    "index": 26,
+    "hero": "Chou",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/chou.png",
+    "jawaban": "Chou"
+  },
+  {
+    "index": 27,
+    "hero": "Cici",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/cici.png",
+    "jawaban": "Cici"
+  },
+  {
+    "index": 28,
+    "hero": "Claude",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/claude.png",
+    "jawaban": "Claude"
+  },
+  {
+    "index": 29,
+    "hero": "Clint",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/clint.png",
+    "jawaban": "Clint"
+  },
+  {
+    "index": 30,
+    "hero": "Cyclops",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/cyclops.png",
+    "jawaban": "Cyclops"
+  },
+  {
+    "index": 31,
+    "hero": "Diggie",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/diggie.png",
+    "jawaban": "Diggie"
+  },
+  {
+    "index": 32,
+    "hero": "Dyrroth",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/dyrroth.png",
+    "jawaban": "Dyrroth"
+  },
+  {
+    "index": 33,
+    "hero": "Edith",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/edith.png",
+    "jawaban": "Edith"
+  },
+  {
+    "index": 34,
+    "hero": "Esmeralda",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/esmeralda.png",
+    "jawaban": "Esmeralda"
+  },
+  {
+    "index": 35,
+    "hero": "Estes",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/estes.png",
+    "jawaban": "Estes"
+  },
+  {
+    "index": 36,
+    "hero": "Eudora",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/eudora.png",
+    "jawaban": "Eudora"
+  },
+  {
+    "index": 37,
+    "hero": "Fanny",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/fanny.png",
+    "jawaban": "Fanny"
+  },
+  {
+    "index": 38,
+    "hero": "Faramis",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/faramis.png",
+    "jawaban": "Faramis"
+  },
+  {
+    "index": 39,
+    "hero": "Floryn",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/floryn.png",
+    "jawaban": "Floryn"
+  },
+  {
+    "index": 40,
+    "hero": "Franco",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/franco.png",
+    "jawaban": "Franco"
+  },
+  {
+    "index": 41,
+    "hero": "Fredrinn",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/fredrinn.png",
+    "jawaban": "Fredrinn"
+  },
+  {
+    "index": 42,
+    "hero": "Freya",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/freya.png",
+    "jawaban": "Freya"
+  },
+  {
+    "index": 43,
+    "hero": "Gatotkaca",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/gatotkaca.png",
+    "jawaban": "Gatotkaca"
+  },
+  {
+    "index": 44,
+    "hero": "Gloo",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/gloo.png",
+    "jawaban": "Gloo"
+  },
+  {
+    "index": 45,
+    "hero": "Gord",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/gord.png",
+    "jawaban": "Gord"
+  },
+  {
+    "index": 46,
+    "hero": "Granger",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/granger.png",
+    "jawaban": "Granger"
+  },
+  {
+    "index": 47,
+    "hero": "Grock",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/grock.png",
+    "jawaban": "Grock"
+  },
+  {
+    "index": 48,
+    "hero": "Guinevere",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/guinevere.png",
+    "jawaban": "Guinevere"
+  },
+  {
+    "index": 49,
+    "hero": "Gusion",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/gusion.png",
+    "jawaban": "Gusion"
+  },
+  {
+    "index": 50,
+    "hero": "Hanabi",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/hanabi.png",
+    "jawaban": "Hanabi"
+  },
+  {
+    "index": 51,
+    "hero": "Hanzo",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/hanzo.png",
+    "jawaban": "Hanzo"
+  },
+  {
+    "index": 52,
+    "hero": "Harith",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/harith.png",
+    "jawaban": "Harith"
+  },
+  {
+    "index": 53,
+    "hero": "Harley",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/harley.png",
+    "jawaban": "Harley"
+  },
+  {
+    "index": 54,
+    "hero": "Hayabusa",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/hayabusa.png",
+    "jawaban": "Hayabusa"
+  },
+  {
+    "index": 55,
+    "hero": "Helcurt",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/helcurt.png",
+    "jawaban": "Helcurt"
+  },
+  {
+    "index": 56,
+    "hero": "Hilda",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/hilda.png",
+    "jawaban": "Hilda"
+  },
+  {
+    "index": 57,
+    "hero": "Hylos",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/hylos.png",
+    "jawaban": "Hylos"
+  },
+  {
+    "index": 58,
+    "hero": "Irithel",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/irithel.png",
+    "jawaban": "Irithel"
+  },
+  {
+    "index": 59,
+    "hero": "Ixia",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/ixia.png",
+    "jawaban": "Ixia"
+  },
+  {
+    "index": 60,
+    "hero": "Jawhead",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/jawhead.png",
+    "jawaban": "Jawhead"
+  },
+  {
+    "index": 61,
+    "hero": "Johnson",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/johnson.png",
+    "jawaban": "Johnson"
+  },
+  {
+    "index": 62,
+    "hero": "Joy",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/joy.png",
+    "jawaban": "Joy"
+  },
+  {
+    "index": 63,
+    "hero": "Julian",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/julian.png",
+    "jawaban": "Julian"
+  },
+  {
+    "index": 64,
+    "hero": "Kadita",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/kadita.png",
+    "jawaban": "Kadita"
+  },
+  {
+    "index": 65,
+    "hero": "Kagura",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/kagura.png",
+    "jawaban": "Kagura"
+  },
+  {
+    "index": 66,
+    "hero": "Kaja",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/kaja.png",
+    "jawaban": "Kaja"
+  },
+  {
+    "index": 67,
+    "hero": "Karina",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/karina.png",
+    "jawaban": "Karina"
+  },
+  {
+    "index": 68,
+    "hero": "Karrie",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/karrie.png",
+    "jawaban": "Karrie"
+  },
+  {
+    "index": 69,
+    "hero": "Khaleed",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/khaleed.png",
+    "jawaban": "Khaleed"
+  },
+  {
+    "index": 70,
+    "hero": "Khufra",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/khufra.png",
+    "jawaban": "Khufra"
+  },
+  {
+    "index": 71,
+    "hero": "Kimmy",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/kimmy.png",
+    "jawaban": "Kimmy"
+  },
+  {
+    "index": 72,
+    "hero": "Lancelot",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/lancelot.png",
+    "jawaban": "Lancelot"
+  },
+  {
+    "index": 73,
+    "hero": "Lapu-Lapu",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/lapu_lapu.png",
+    "jawaban": "Lapu-Lapu"
+  },
+  {
+    "index": 74,
+    "hero": "Layla",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/layla.png",
+    "jawaban": "Layla"
+  },
+  {
+    "index": 75,
+    "hero": "Leomord",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/leomord.png",
+    "jawaban": "Leomord"
+  },
+  {
+    "index": 76,
+    "hero": "Lesley",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/lesley.png",
+    "jawaban": "Lesley"
+  },
+  {
+    "index": 77,
+    "hero": "Ling",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/ling.png",
+    "jawaban": "Ling"
+  },
+  {
+    "index": 78,
+    "hero": "Lolita",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/lolita.png",
+    "jawaban": "Lolita"
+  },
+  {
+    "index": 79,
+    "hero": "Lunox",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/lunox.png",
+    "jawaban": "Lunox"
+  },
+  {
+    "index": 80,
+    "hero": "Luo Yi",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/luo_yi.png",
+    "jawaban": "Luo Yi"
+  },
+  {
+    "index": 81,
+    "hero": "Lylia",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/lylia.png",
+    "jawaban": "Lylia"
+  },
+  {
+    "index": 82,
+    "hero": "Martis",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/martis.png",
+    "jawaban": "Martis"
+  },
+  {
+    "index": 83,
+    "hero": "Masha",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/masha.png",
+    "jawaban": "Masha"
+  },
+  {
+    "index": 84,
+    "hero": "Mathilda",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/mathilda.png",
+    "jawaban": "Mathilda"
+  },
+  {
+    "index": 85,
+    "hero": "Melissa",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/melissa.png",
+    "jawaban": "Melissa"
+  },
+  {
+    "index": 86,
+    "hero": "Minotaur",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/minotaur.png",
+    "jawaban": "Minotaur"
+  },
+  {
+    "index": 87,
+    "hero": "Minsitthar",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/minsitthar.png",
+    "jawaban": "Minsitthar"
+  },
+  {
+    "index": 88,
+    "hero": "Miya",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/miya.png",
+    "jawaban": "Miya"
+  },
+  {
+    "index": 89,
+    "hero": "Moskov",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/moskov.png",
+    "jawaban": "Moskov"
+  },
+  {
+    "index": 90,
+    "hero": "Nana",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/nana.png",
+    "jawaban": "Nana"
+  },
+  {
+    "index": 91,
+    "hero": "Natalia",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/natalia.png",
+    "jawaban": "Natalia"
+  },
+  {
+    "index": 92,
+    "hero": "Natan",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/natan.png",
+    "jawaban": "Natan"
+  },
+  {
+    "index": 93,
+    "hero": "Nolan",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/nolan.png",
+    "jawaban": "Nolan"
+  },
+  {
+    "index": 94,
+    "hero": "Novaria",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/novaria.png",
+    "jawaban": "Novaria"
+  },
+  {
+    "index": 95,
+    "hero": "Odette",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/odette.png",
+    "jawaban": "Odette"
+  },
+  {
+    "index": 96,
+    "hero": "Paquito",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/paquito.png",
+    "jawaban": "Paquito"
+  },
+  {
+    "index": 97,
+    "hero": "Pharsa",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/pharsa.png",
+    "jawaban": "Pharsa"
+  },
+  {
+    "index": 98,
+    "hero": "Phoveus",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/phoveus.png",
+    "jawaban": "Phoveus"
+  },
+  {
+    "index": 99,
+    "hero": "Popol and Kupa",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/popol_and_kupa.png",
+    "jawaban": "Popol and Kupa"
+  },
+  {
+    "index": 100,
+    "hero": "Rafaela",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/rafaela.png",
+    "jawaban": "Rafaela"
+  },
+  {
+    "index": 101,
+    "hero": "Roger",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/roger.png",
+    "jawaban": "Roger"
+  },
+  {
+    "index": 102,
+    "hero": "Ruby",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/ruby.png",
+    "jawaban": "Ruby"
+  },
+  {
+    "index": 103,
+    "hero": "Saber",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/saber.png",
+    "jawaban": "Saber"
+  },
+  {
+    "index": 104,
+    "hero": "Selena",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/selena.png",
+    "jawaban": "Selena"
+  },
+  {
+    "index": 105,
+    "hero": "Silvanna",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/silvanna.png",
+    "jawaban": "Silvanna"
+  },
+  {
+    "index": 106,
+    "hero": "Sun",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/sun.png",
+    "jawaban": "Sun"
+  },
+  {
+    "index": 107,
+    "hero": "Suyou",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/suyou.png",
+    "jawaban": "Suyou"
+  },
+  {
+    "index": 108,
+    "hero": "Terizla",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/terizla.png",
+    "jawaban": "Terizla"
+  },
+  {
+    "index": 109,
+    "hero": "Thamuz",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/thamuz.png",
+    "jawaban": "Thamuz"
+  },
+  {
+    "index": 110,
+    "hero": "Tigreal",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/tigreal.png",
+    "jawaban": "Tigreal"
+  },
+  {
+    "index": 111,
+    "hero": "Uranus",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/uranus.png",
+    "jawaban": "Uranus"
+  },
+  {
+    "index": 112,
+    "hero": "Vale",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/vale.png",
+    "jawaban": "Vale"
+  },
+  {
+    "index": 113,
+    "hero": "Valentina",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/valentina.png",
+    "jawaban": "Valentina"
+  },
+  {
+    "index": 114,
+    "hero": "Valir",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/valir.png",
+    "jawaban": "Valir"
+  },
+  {
+    "index": 115,
+    "hero": "Vexana",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/vexana.png",
+    "jawaban": "Vexana"
+  },
+  {
+    "index": 116,
+    "hero": "Wanwan",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/wanwan.png",
+    "jawaban": "Wanwan"
+  },
+  {
+    "index": 117,
+    "hero": "X.Borg",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/xborg.png",
+    "jawaban": "X.Borg"
+  },
+  {
+    "index": 118,
+    "hero": "Xavier",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/xavier.png",
+    "jawaban": "Xavier"
+  },
+  {
+    "index": 119,
+    "hero": "Yin",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/yin.png",
+    "jawaban": "Yin"
+  },
+  {
+    "index": 120,
+    "hero": "Yi Sun-shin",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/yi_sun_shin.png",
+    "jawaban": "Yi Sun-shin"
+  },
+  {
+    "index": 121,
+    "hero": "Yve",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/yve.png",
+    "jawaban": "Yve"
+  },
+  {
+    "index": 122,
+    "hero": "Yu Zhong",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/yu_zhong.png",
+    "jawaban": "Yu Zhong"
+  },
+  {
+    "index": 123,
+    "hero": "Zhask",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/zhask.png",
+    "jawaban": "Zhask"
+  },
+  {
+    "index": 124,
+    "hero": "Zhuxin",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/zhuxin.png",
+    "jawaban": "Zhuxin"
+  },
+  {
+    "index": 125,
+    "hero": "Zilong",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/mlbb/zilong.png",
+    "jawaban": "Zilong"
+  }
+]
