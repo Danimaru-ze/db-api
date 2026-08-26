@@ -1,0 +1,50 @@
+[
+  {
+    "index": 0,
+    "emoji": "🕷️🧑",
+    "petunjuk": "Superhero Marvel",
+    "jawaban": "Spider-Man"
+  },
+  {
+    "index": 1,
+    "emoji": "🦇👨",
+    "petunjuk": "Superhero DC",
+    "jawaban": "Batman"
+  },
+  {
+    "index": 2,
+    "emoji": "🚢🧊💔",
+    "petunjuk": "Film legendaris kapal tenggelam",
+    "jawaban": "Titanic"
+  },
+  {
+    "index": 3,
+    "emoji": "🦁👑",
+    "petunjuk": "Animasi Disney raja hutan",
+    "jawaban": "The Lion King"
+  },
+  {
+    "index": 4,
+    "emoji": "🧙‍♂️👓⚡",
+    "petunjuk": "Penyihir berkacamata Hogwarts",
+    "jawaban": "Harry Potter"
+  },
+  {
+    "index": 5,
+    "emoji": "🦖🏝️🚙",
+    "petunjuk": "Taman dinosaurus",
+    "jawaban": "Jurassic Park"
+  },
+  {
+    "index": 6,
+    "emoji": "❄️👸⛄",
+    "petunjuk": "Let It Go Disney",
+    "jawaban": "Frozen"
+  },
+  {
+    "index": 7,
+    "emoji": "🐼🥋🥢",
+    "petunjuk": "Panda pendekar kungfu",
+    "jawaban": "Kung Fu Panda"
+  }
+]

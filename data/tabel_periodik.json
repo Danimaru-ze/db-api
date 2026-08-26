@@ -1,0 +1,452 @@
+[
+  {
+    "nomor": 1,
+    "simbol": "H",
+    "nama": "Hidrogen",
+    "massa_atom": 1.008,
+    "kategori": "Nonlogam",
+    "fase": "Gas",
+    "periode": 1,
+    "golongan": 1
+  },
+  {
+    "nomor": 2,
+    "simbol": "He",
+    "nama": "Helium",
+    "massa_atom": 4.0026,
+    "kategori": "Gas Mulia",
+    "fase": "Gas",
+    "periode": 1,
+    "golongan": 18
+  },
+  {
+    "nomor": 3,
+    "simbol": "Li",
+    "nama": "Litium",
+    "massa_atom": 6.94,
+    "kategori": "Logam Alkali",
+    "fase": "Padat",
+    "periode": 2,
+    "golongan": 1
+  },
+  {
+    "nomor": 4,
+    "simbol": "Be",
+    "nama": "Berilium",
+    "massa_atom": 9.0122,
+    "kategori": "Logam Alkali Tanah",
+    "fase": "Padat",
+    "periode": 2,
+    "golongan": 2
+  },
+  {
+    "nomor": 5,
+    "simbol": "B",
+    "nama": "Boron",
+    "massa_atom": 10.81,
+    "kategori": "Metaloid",
+    "fase": "Padat",
+    "periode": 2,
+    "golongan": 13
+  },
+  {
+    "nomor": 6,
+    "simbol": "C",
+    "nama": "Karbon",
+    "massa_atom": 12.011,
+    "kategori": "Nonlogam",
+    "fase": "Padat",
+    "periode": 2,
+    "golongan": 14
+  },
+  {
+    "nomor": 7,
+    "simbol": "N",
+    "nama": "Nitrogen",
+    "massa_atom": 14.007,
+    "kategori": "Nonlogam",
+    "fase": "Gas",
+    "periode": 2,
+    "golongan": 15
+  },
+  {
+    "nomor": 8,
+    "simbol": "O",
+    "nama": "Oksigen",
+    "massa_atom": 15.999,
+    "kategori": "Nonlogam",
+    "fase": "Gas",
+    "periode": 2,
+    "golongan": 16
+  },
+  {
+    "nomor": 9,
+    "simbol": "F",
+    "nama": "Fluorin",
+    "massa_atom": 18.998,
+    "kategori": "Halogen",
+    "fase": "Gas",
+    "periode": 2,
+    "golongan": 17
+  },
+  {
+    "nomor": 10,
+    "simbol": "Ne",
+    "nama": "Neon",
+    "massa_atom": 20.18,
+    "kategori": "Gas Mulia",
+    "fase": "Gas",
+    "periode": 2,
+    "golongan": 18
+  },
+  {
+    "nomor": 11,
+    "simbol": "Na",
+    "nama": "Natrium",
+    "massa_atom": 22.99,
+    "kategori": "Logam Alkali",
+    "fase": "Padat",
+    "periode": 3,
+    "golongan": 1
+  },
+  {
+    "nomor": 12,
+    "simbol": "Mg",
+    "nama": "Magnesium",
+    "massa_atom": 24.305,
+    "kategori": "Logam Alkali Tanah",
+    "fase": "Padat",
+    "periode": 3,
+    "golongan": 2
+  },
+  {
+    "nomor": 13,
+    "simbol": "Al",
+    "nama": "Aluminium",
+    "massa_atom": 26.982,
+    "kategori": "Logam Pasca-Transisi",
+    "fase": "Padat",
+    "periode": 3,
+    "golongan": 13
+  },
+  {
+    "nomor": 14,
+    "simbol": "Si",
+    "nama": "Silikon",
+    "massa_atom": 28.085,
+    "kategori": "Metaloid",
+    "fase": "Padat",
+    "periode": 3,
+    "golongan": 14
+  },
+  {
+    "nomor": 15,
+    "simbol": "P",
+    "nama": "Fosfor",
+    "massa_atom": 30.974,
+    "kategori": "Nonlogam",
+    "fase": "Padat",
+    "periode": 3,
+    "golongan": 15
+  },
+  {
+    "nomor": 16,
+    "simbol": "S",
+    "nama": "Belerang",
+    "massa_atom": 32.06,
+    "kategori": "Nonlogam",
+    "fase": "Padat",
+    "periode": 3,
+    "golongan": 16
+  },
+  {
+    "nomor": 17,
+    "simbol": "Cl",
+    "nama": "Klorin",
+    "massa_atom": 35.45,
+    "kategori": "Halogen",
+    "fase": "Gas",
+    "periode": 3,
+    "golongan": 17
+  },
+  {
+    "nomor": 18,
+    "simbol": "Ar",
+    "nama": "Argon",
+    "massa_atom": 39.948,
+    "kategori": "Gas Mulia",
+    "fase": "Gas",
+    "periode": 3,
+    "golongan": 18
+  },
+  {
+    "nomor": 19,
+    "simbol": "K",
+    "nama": "Kalium",
+    "massa_atom": 39.098,
+    "kategori": "Logam Alkali",
+    "fase": "Padat",
+    "periode": 4,
+    "golongan": 1
+  },
+  {
+    "nomor": 20,
+    "simbol": "Ca",
+    "nama": "Kalsium",
+    "massa_atom": 40.078,
+    "kategori": "Logam Alkali Tanah",
+    "fase": "Padat",
+    "periode": 4,
+    "golongan": 2
+  },
+  {
+    "nomor": 21,
+    "simbol": "Sc",
+    "nama": "Skandium",
+    "massa_atom": 44.956,
+    "kategori": "Logam Transisi",
+    "fase": "Padat",
+    "periode": 4,
+    "golongan": 3
+  },
+  {
+    "nomor": 22,
+    "simbol": "Ti",
+    "nama": "Titanium",
+    "massa_atom": 47.867,
+    "kategori": "Logam Transisi",
+    "fase": "Padat",
+    "periode": 4,
+    "golongan": 4
+  },
+  {
+    "nomor": 23,
+    "simbol": "V",
+    "nama": "Vanadium",
+    "massa_atom": 50.942,
+    "kategori": "Logam Transisi",
+    "fase": "Padat",
+    "periode": 4,
+    "golongan": 5
+  },
+  {
+    "nomor": 24,
+    "simbol": "Cr",
+    "nama": "Kromium",
+    "massa_atom": 51.996,
+    "kategori": "Logam Transisi",
+    "fase": "Padat",
+    "periode": 4,
+    "golongan": 6
+  },
+  {
+    "nomor": 25,
+    "simbol": "Mn",
+    "nama": "Mangan",
+    "massa_atom": 54.938,
+    "kategori": "Logam Transisi",
+    "fase": "Padat",
+    "periode": 4,
+    "golongan": 7
+  },
+  {
+    "nomor": 26,
+    "simbol": "Fe",
+    "nama": "Besi",
+    "massa_atom": 55.845,
+    "kategori": "Logam Transisi",
+    "fase": "Padat",
+    "periode": 4,
+    "golongan": 8
+  },
+  {
+    "nomor": 27,
+    "simbol": "Co",
+    "nama": "Kobalt",
+    "massa_atom": 58.933,
+    "kategori": "Logam Transisi",
+    "fase": "Padat",
+    "periode": 4,
+    "golongan": 9
+  },
+  {
+    "nomor": 28,
+    "simbol": "Ni",
+    "nama": "Nikel",
+    "massa_atom": 58.693,
+    "kategori": "Logam Transisi",
+    "fase": "Padat",
+    "periode": 4,
+    "golongan": 10
+  },
+  {
+    "nomor": 29,
+    "simbol": "Cu",
+    "nama": "Tembaga",
+    "massa_atom": 63.546,
+    "kategori": "Logam Transisi",
+    "fase": "Padat",
+    "periode": 4,
+    "golongan": 11
+  },
+  {
+    "nomor": 30,
+    "simbol": "Zn",
+    "nama": "Seng",
+    "massa_atom": 65.38,
+    "kategori": "Logam Pasca-Transisi",
+    "fase": "Padat",
+    "periode": 4,
+    "golongan": 12
+  },
+  {
+    "nomor": 31,
+    "simbol": "Ga",
+    "nama": "Galium",
+    "massa_atom": 69.723,
+    "kategori": "Logam Pasca-Transisi",
+    "fase": "Padat",
+    "periode": 4,
+    "golongan": 13
+  },
+  {
+    "nomor": 32,
+    "simbol": "Ge",
+    "nama": "Germanium",
+    "massa_atom": 72.63,
+    "kategori": "Metaloid",
+    "fase": "Padat",
+    "periode": 4,
+    "golongan": 14
+  },
+  {
+    "nomor": 33,
+    "simbol": "As",
+    "nama": "Arsenik",
+    "massa_atom": 74.922,
+    "kategori": "Metaloid",
+    "fase": "Padat",
+    "periode": 4,
+    "golongan": 15
+  },
+  {
+    "nomor": 34,
+    "simbol": "Se",
+    "nama": "Selenium",
+    "massa_atom": 78.971,
+    "kategori": "Nonlogam",
+    "fase": "Padat",
+    "periode": 4,
+    "golongan": 16
+  },
+  {
+    "nomor": 35,
+    "simbol": "Br",
+    "nama": "Bromin",
+    "massa_atom": 79.904,
+    "kategori": "Halogen",
+    "fase": "Cair",
+    "periode": 4,
+    "golongan": 17
+  },
+  {
+    "nomor": 36,
+    "simbol": "Kr",
+    "nama": "Kripton",
+    "massa_atom": 83.798,
+    "kategori": "Gas Mulia",
+    "fase": "Gas",
+    "periode": 4,
+    "golongan": 18
+  },
+  {
+    "nomor": 47,
+    "simbol": "Ag",
+    "nama": "Perak",
+    "massa_atom": 107.87,
+    "kategori": "Logam Transisi",
+    "fase": "Padat",
+    "periode": 5,
+    "golongan": 11
+  },
+  {
+    "nomor": 50,
+    "simbol": "Sn",
+    "nama": "Timah",
+    "massa_atom": 118.71,
+    "kategori": "Logam Pasca-Transisi",
+    "fase": "Padat",
+    "periode": 5,
+    "golongan": 14
+  },
+  {
+    "nomor": 53,
+    "simbol": "I",
+    "nama": "Iodin",
+    "massa_atom": 126.9,
+    "kategori": "Halogen",
+    "fase": "Padat",
+    "periode": 5,
+    "golongan": 17
+  },
+  {
+    "nomor": 54,
+    "simbol": "Xe",
+    "nama": "Ksenon",
+    "massa_atom": 131.29,
+    "kategori": "Gas Mulia",
+    "fase": "Gas",
+    "periode": 5,
+    "golongan": 18
+  },
+  {
+    "nomor": 78,
+    "simbol": "Pt",
+    "nama": "Platina",
+    "massa_atom": 195.08,
+    "kategori": "Logam Transisi",
+    "fase": "Padat",
+    "periode": 6,
+    "golongan": 10
+  },
+  {
+    "nomor": 79,
+    "simbol": "Au",
+    "nama": "Emas",
+    "massa_atom": 196.97,
+    "kategori": "Logam Transisi",
+    "fase": "Padat",
+    "periode": 6,
+    "golongan": 11
+  },
+  {
+    "nomor": 80,
+    "simbol": "Hg",
+    "nama": "Raksa",
+    "massa_atom": 200.59,
+    "kategori": "Logam Pasca-Transisi",
+    "fase": "Cair",
+    "periode": 6,
+    "golongan": 12
+  },
+  {
+    "nomor": 82,
+    "simbol": "Pb",
+    "nama": "Timbal",
+    "massa_atom": 207.2,
+    "kategori": "Logam Pasca-Transisi",
+    "fase": "Padat",
+    "periode": 6,
+    "golongan": 14
+  },
+  {
+    "nomor": 92,
+    "simbol": "U",
+    "nama": "Uranium",
+    "massa_atom": 238.03,
+    "kategori": "Aktinida",
+    "fase": "Padat",
+    "periode": 7,
+    "golongan": 3
+  }
+]

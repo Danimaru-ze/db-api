@@ -1,0 +1,176 @@
+[
+  {
+    "index": 0,
+    "karakter": "Furina",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/genshin/furina.png",
+    "jawaban": "Furina"
+  },
+  {
+    "index": 1,
+    "karakter": "Neuvillette",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/genshin/neuvillette.png",
+    "jawaban": "Neuvillette"
+  },
+  {
+    "index": 2,
+    "karakter": "Raiden Shogun",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/genshin/raiden_shogun.png",
+    "jawaban": "Raiden Shogun"
+  },
+  {
+    "index": 3,
+    "karakter": "Nahida",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/genshin/nahida.png",
+    "jawaban": "Nahida"
+  },
+  {
+    "index": 4,
+    "karakter": "Zhongli",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/genshin/zhongli.png",
+    "jawaban": "Zhongli"
+  },
+  {
+    "index": 5,
+    "karakter": "Venti",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/genshin/venti.png",
+    "jawaban": "Venti"
+  },
+  {
+    "index": 6,
+    "karakter": "Hu Tao",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/genshin/hu_tao.png",
+    "jawaban": "Hu Tao"
+  },
+  {
+    "index": 7,
+    "karakter": "Kaedehara Kazuha",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/genshin/kaedehara_kazuha.png",
+    "jawaban": "Kaedehara Kazuha"
+  },
+  {
+    "index": 8,
+    "karakter": "Yelan",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/genshin/yelan.png",
+    "jawaban": "Yelan"
+  },
+  {
+    "index": 9,
+    "karakter": "Kamisato Ayaka",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/genshin/kamisato_ayaka.png",
+    "jawaban": "Kamisato Ayaka"
+  },
+  {
+    "index": 10,
+    "karakter": "Ganyu",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/genshin/ganyu.png",
+    "jawaban": "Ganyu"
+  },
+  {
+    "index": 11,
+    "karakter": "Xiao",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/genshin/xiao.png",
+    "jawaban": "Xiao"
+  },
+  {
+    "index": 12,
+    "karakter": "Arlecchino",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/genshin/arlecchino.png",
+    "jawaban": "Arlecchino"
+  },
+  {
+    "index": 13,
+    "karakter": "Navia",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/genshin/navia.png",
+    "jawaban": "Navia"
+  },
+  {
+    "index": 14,
+    "karakter": "Clorinde",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/genshin/clorinde.png",
+    "jawaban": "Clorinde"
+  },
+  {
+    "index": 15,
+    "karakter": "Wriothesley",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/genshin/wriothesley.png",
+    "jawaban": "Wriothesley"
+  },
+  {
+    "index": 16,
+    "karakter": "Alhaitham",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/genshin/alhaitham.png",
+    "jawaban": "Alhaitham"
+  },
+  {
+    "index": 17,
+    "karakter": "Scaramouche",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/genshin/scaramouche.png",
+    "jawaban": "Scaramouche"
+  },
+  {
+    "index": 18,
+    "karakter": "Tartaglia",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/genshin/tartaglia.png",
+    "jawaban": "Tartaglia"
+  },
+  {
+    "index": 19,
+    "karakter": "Keqing",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/genshin/keqing.png",
+    "jawaban": "Keqing"
+  },
+  {
+    "index": 20,
+    "karakter": "Diluc",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/genshin/diluc.png",
+    "jawaban": "Diluc"
+  },
+  {
+    "index": 21,
+    "karakter": "Mona",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/genshin/mona.png",
+    "jawaban": "Mona"
+  },
+  {
+    "index": 22,
+    "karakter": "Qiqi",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/genshin/qiqi.png",
+    "jawaban": "Qiqi"
+  },
+  {
+    "index": 23,
+    "karakter": "Bennett",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/genshin/bennett.png",
+    "jawaban": "Bennett"
+  },
+  {
+    "index": 24,
+    "karakter": "Xingqiu",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/genshin/xingqiu.png",
+    "jawaban": "Xingqiu"
+  },
+  {
+    "index": 25,
+    "karakter": "Xiangling",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/genshin/xiangling.png",
+    "jawaban": "Xiangling"
+  },
+  {
+    "index": 26,
+    "karakter": "Fischl",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/genshin/fischl.png",
+    "jawaban": "Fischl"
+  },
+  {
+    "index": 27,
+    "karakter": "Klee",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/genshin/klee.png",
+    "jawaban": "Klee"
+  },
+  {
+    "index": 28,
+    "karakter": "Eula",
+    "img": "https://raw.githubusercontent.com/Danimaru-ze/db-api/main/lib_data/genshin/eula.png",
+    "jawaban": "Eula"
+  }
+]

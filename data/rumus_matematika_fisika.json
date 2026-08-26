@@ -1,0 +1,116 @@
+[
+  {
+    "kategori": "Matematika - Bangun Datar",
+    "nama": "Luas Persegi",
+    "rumus": "L = s x s",
+    "keterangan": "s = panjang sisi"
+  },
+  {
+    "kategori": "Matematika - Bangun Datar",
+    "nama": "Luas Persegi Panjang",
+    "rumus": "L = p x l",
+    "keterangan": "p = panjang, l = lebar"
+  },
+  {
+    "kategori": "Matematika - Bangun Datar",
+    "nama": "Luas Segitiga",
+    "rumus": "L = 1/2 x a x t",
+    "keterangan": "a = alas, t = tinggi"
+  },
+  {
+    "kategori": "Matematika - Bangun Datar",
+    "nama": "Luas Lingkaran",
+    "rumus": "L = π x r²",
+    "keterangan": "π = 22/7 atau 3.14, r = jari-jari"
+  },
+  {
+    "kategori": "Matematika - Bangun Datar",
+    "nama": "Keliling Lingkaran",
+    "rumus": "K = 2 x π x r",
+    "keterangan": "r = jari-jari"
+  },
+  {
+    "kategori": "Matematika - Bangun Ruang",
+    "nama": "Volume Kubus",
+    "rumus": "V = s³",
+    "keterangan": "s = sisi kubus"
+  },
+  {
+    "kategori": "Matematika - Bangun Ruang",
+    "nama": "Volume Balok",
+    "rumus": "V = p x l x t",
+    "keterangan": "p = panjang, l = lebar, t = tinggi"
+  },
+  {
+    "kategori": "Matematika - Bangun Ruang",
+    "nama": "Volume Tabung",
+    "rumus": "V = π x r² x t",
+    "keterangan": "r = jari-jari alas, t = tinggi tabung"
+  },
+  {
+    "kategori": "Matematika - Bangun Ruang",
+    "nama": "Volume Kerucut",
+    "rumus": "V = 1/3 x π x r² x t",
+    "keterangan": "r = jari-jari, t = tinggi"
+  },
+  {
+    "kategori": "Matematika - Bangun Ruang",
+    "nama": "Volume Bola",
+    "rumus": "V = 4/3 x π x r³",
+    "keterangan": "r = jari-jari bola"
+  },
+  {
+    "kategori": "Fisika - Mekanika",
+    "nama": "Kecepatan Rata-rata",
+    "rumus": "v = s / t",
+    "keterangan": "v = kecepatan (m/s), s = jarak (m), t = waktu (s)"
+  },
+  {
+    "kategori": "Fisika - Mekanika",
+    "nama": "Percepatan",
+    "rumus": "a = (v_t - v_0) / t",
+    "keterangan": "a = percepatan (m/s²), v_t = kecepatan akhir, v_0 = kecepatan awal"
+  },
+  {
+    "kategori": "Fisika - Mekanika",
+    "nama": "Hukum II Newton",
+    "rumus": "F = m x a",
+    "keterangan": "F = gaya (N), m = massa (kg), a = percepatan (m/s²)"
+  },
+  {
+    "kategori": "Fisika - Energi",
+    "nama": "Energi Kinetik",
+    "rumus": "Ek = 1/2 x m x v²",
+    "keterangan": "Ek = energi kinetik (Joule), m = massa (kg), v = kecepatan (m/s)"
+  },
+  {
+    "kategori": "Fisika - Energi",
+    "nama": "Energi Potensial Gravitasi",
+    "rumus": "Ep = m x g x h",
+    "keterangan": "Ep = energi potensial (Joule), g = percepatan gravitasi (~9.8 m/s²), h = ketinggian (m)"
+  },
+  {
+    "kategori": "Fisika - Energi",
+    "nama": "Usaha",
+    "rumus": "W = F x s",
+    "keterangan": "W = usaha (Joule), F = gaya (N), s = perpindahan (m)"
+  },
+  {
+    "kategori": "Fisika - Listrik",
+    "nama": "Hukum Ohm",
+    "rumus": "V = I x R",
+    "keterangan": "V = tegangan (Volt), I = kuat arus (Ampere), R = hambatan (Ohm)"
+  },
+  {
+    "kategori": "Fisika - Listrik",
+    "nama": "Daya Listrik",
+    "rumus": "P = V x I = I² x R = V² / R",
+    "keterangan": "P = daya (Watt), V = tegangan (Volt), I = arus (Ampere)"
+  },
+  {
+    "kategori": "Fisika - Gelombang",
+    "nama": "Cepat Rambat Gelombang",
+    "rumus": "v = λ x f",
+    "keterangan": "v = cepat rambat (m/s), λ = panjang gelombang (m), f = frekuensi (Hz)"
+  }
+]

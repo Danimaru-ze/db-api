@@ -1,0 +1,306 @@
+[
+  {
+    "no": 1,
+    "provinsi": "Aceh",
+    "ibu_kota": "Banda Aceh",
+    "pulau": "Sumatera",
+    "rumah_adat": "Rumoh Aceh",
+    "tarian": "Tari Saman"
+  },
+  {
+    "no": 2,
+    "provinsi": "Sumatera Utara",
+    "ibu_kota": "Medan",
+    "pulau": "Sumatera",
+    "rumah_adat": "Rumah Bolon",
+    "tarian": "Tari Tor-Tor"
+  },
+  {
+    "no": 3,
+    "provinsi": "Sumatera Barat",
+    "ibu_kota": "Padang",
+    "pulau": "Sumatera",
+    "rumah_adat": "Rumah Gadang",
+    "tarian": "Tari Piring"
+  },
+  {
+    "no": 4,
+    "provinsi": "Riau",
+    "ibu_kota": "Pekanbaru",
+    "pulau": "Sumatera",
+    "rumah_adat": "Selaso Jatuh Kembar",
+    "tarian": "Tari Zapin"
+  },
+  {
+    "no": 5,
+    "provinsi": "Kepulauan Riau",
+    "ibu_kota": "Tanjungpinang",
+    "pulau": "Sumatera",
+    "rumah_adat": "Rumah Belah Bubung",
+    "tarian": "Tari Persembahan"
+  },
+  {
+    "no": 6,
+    "provinsi": "Jambi",
+    "ibu_kota": "Jambi",
+    "pulau": "Sumatera",
+    "rumah_adat": "Rumah Panggung",
+    "tarian": "Tari Sekapur Sirih"
+  },
+  {
+    "no": 7,
+    "provinsi": "Bengkulu",
+    "ibu_kota": "Bengkulu",
+    "pulau": "Sumatera",
+    "rumah_adat": "Rumah Bubungan Lima",
+    "tarian": "Tari Andun"
+  },
+  {
+    "no": 8,
+    "provinsi": "Sumatera Selatan",
+    "ibu_kota": "Palembang",
+    "pulau": "Sumatera",
+    "rumah_adat": "Rumah Limas",
+    "tarian": "Tari Gending Sriwijaya"
+  },
+  {
+    "no": 9,
+    "provinsi": "Kepulauan Bangka Belitung",
+    "ibu_kota": "Pangkalpinang",
+    "pulau": "Sumatera",
+    "rumah_adat": "Rumah Rakit",
+    "tarian": "Tari Campak"
+  },
+  {
+    "no": 10,
+    "provinsi": "Lampung",
+    "ibu_kota": "Bandar Lampung",
+    "pulau": "Sumatera",
+    "rumah_adat": "Nuwo Sesat",
+    "tarian": "Tari Sembah"
+  },
+  {
+    "no": 11,
+    "provinsi": "DKI Jakarta",
+    "ibu_kota": "Jakarta",
+    "pulau": "Jawa",
+    "rumah_adat": "Rumah Kebaya",
+    "tarian": "Tari Yapong"
+  },
+  {
+    "no": 12,
+    "provinsi": "Jawa Barat",
+    "ibu_kota": "Bandung",
+    "pulau": "Jawa",
+    "rumah_adat": "Rumah Kasepuhan",
+    "tarian": "Tari Jaipong"
+  },
+  {
+    "no": 13,
+    "provinsi": "Banten",
+    "ibu_kota": "Serang",
+    "pulau": "Jawa",
+    "rumah_adat": "Rumah Badui",
+    "tarian": "Tari Rampak Bedug"
+  },
+  {
+    "no": 14,
+    "provinsi": "Jawa Tengah",
+    "ibu_kota": "Semarang",
+    "pulau": "Jawa",
+    "rumah_adat": "Rumah Joglo",
+    "tarian": "Tari Gambyong"
+  },
+  {
+    "no": 15,
+    "provinsi": "DI Yogyakarta",
+    "ibu_kota": "Yogyakarta",
+    "pulau": "Jawa",
+    "rumah_adat": "Bangsal Kencono",
+    "tarian": "Tari Serimpi"
+  },
+  {
+    "no": 16,
+    "provinsi": "Jawa Timur",
+    "ibu_kota": "Surabaya",
+    "pulau": "Jawa",
+    "rumah_adat": "Rumah Joglo Situbondo",
+    "tarian": "Tari Reog Ponorogo"
+  },
+  {
+    "no": 17,
+    "provinsi": "Bali",
+    "ibu_kota": "Denpasar",
+    "pulau": "Bali & Nusa Tenggara",
+    "rumah_adat": "Gapura Candi Bentar",
+    "tarian": "Tari Pendet"
+  },
+  {
+    "no": 18,
+    "provinsi": "Nusa Tenggara Barat",
+    "ibu_kota": "Mataram",
+    "pulau": "Bali & Nusa Tenggara",
+    "rumah_adat": "Dalam Loka Samawa",
+    "tarian": "Tari Gandrung"
+  },
+  {
+    "no": 19,
+    "provinsi": "Nusa Tenggara Timur",
+    "ibu_kota": "Kupang",
+    "pulau": "Bali & Nusa Tenggara",
+    "rumah_adat": "Musalaki",
+    "tarian": "Tari Caci"
+  },
+  {
+    "no": 20,
+    "provinsi": "Kalimantan Barat",
+    "ibu_kota": "Pontianak",
+    "pulau": "Kalimantan",
+    "rumah_adat": "Rumah Radakng",
+    "tarian": "Tari Monong"
+  },
+  {
+    "no": 21,
+    "provinsi": "Kalimantan Tengah",
+    "ibu_kota": "Palangka Raya",
+    "pulau": "Kalimantan",
+    "rumah_adat": "Rumah Betang",
+    "tarian": "Tari Tambun dan Bungai"
+  },
+  {
+    "no": 22,
+    "provinsi": "Kalimantan Selatan",
+    "ibu_kota": "Banjarbaru",
+    "pulau": "Kalimantan",
+    "rumah_adat": "Rumah Bubungan Tinggi",
+    "tarian": "Tari Baksa Kembang"
+  },
+  {
+    "no": 23,
+    "provinsi": "Kalimantan Timur",
+    "ibu_kota": "Samarinda",
+    "pulau": "Kalimantan",
+    "rumah_adat": "Rumah Lamin",
+    "tarian": "Tari Gong"
+  },
+  {
+    "no": 24,
+    "provinsi": "Kalimantan Utara",
+    "ibu_kota": "Tanjung Selor",
+    "pulau": "Kalimantan",
+    "rumah_adat": "Rumah Baloy",
+    "tarian": "Tari Jepin"
+  },
+  {
+    "no": 25,
+    "provinsi": "Sulawesi Utara",
+    "ibu_kota": "Manado",
+    "pulau": "Sulawesi",
+    "rumah_adat": "Walewangko",
+    "tarian": "Tari Maengket"
+  },
+  {
+    "no": 26,
+    "provinsi": "Gorontalo",
+    "ibu_kota": "Gorontalo",
+    "pulau": "Sulawesi",
+    "rumah_adat": "Dulohupa",
+    "tarian": "Tari Dana-Dana"
+  },
+  {
+    "no": 27,
+    "provinsi": "Sulawesi Tengah",
+    "ibu_kota": "Palu",
+    "pulau": "Sulawesi",
+    "rumah_adat": "Souraja",
+    "tarian": "Tari Dero"
+  },
+  {
+    "no": 28,
+    "provinsi": "Sulawesi Barat",
+    "ibu_kota": "Mamuju",
+    "pulau": "Sulawesi",
+    "rumah_adat": "Boyang",
+    "tarian": "Tari Pattudu"
+  },
+  {
+    "no": 29,
+    "provinsi": "Sulawesi Selatan",
+    "ibu_kota": "Makassar",
+    "pulau": "Sulawesi",
+    "rumah_adat": "Tongkonan",
+    "tarian": "Tari Kipas Pakarena"
+  },
+  {
+    "no": 30,
+    "provinsi": "Sulawesi Tenggara",
+    "ibu_kota": "Kendari",
+    "pulau": "Sulawesi",
+    "rumah_adat": "Laikas",
+    "tarian": "Tari Lulo"
+  },
+  {
+    "no": 31,
+    "provinsi": "Maluku",
+    "ibu_kota": "Ambon",
+    "pulau": "Maluku",
+    "rumah_adat": "Baileo",
+    "tarian": "Tari Lenso"
+  },
+  {
+    "no": 32,
+    "provinsi": "Maluku Utara",
+    "ibu_kota": "Sofifi",
+    "pulau": "Maluku",
+    "rumah_adat": "Sasadu",
+    "tarian": "Tari Soya-Soya"
+  },
+  {
+    "no": 33,
+    "provinsi": "Papua",
+    "ibu_kota": "Jayapura",
+    "pulau": "Papua",
+    "rumah_adat": "Honai",
+    "tarian": "Tari Musyoh"
+  },
+  {
+    "no": 34,
+    "provinsi": "Papua Barat",
+    "ibu_kota": "Manokwari",
+    "pulau": "Papua",
+    "rumah_adat": "Mod Aki Aksa",
+    "tarian": "Tari Suanggi"
+  },
+  {
+    "no": 35,
+    "provinsi": "Papua Selatan",
+    "ibu_kota": "Salor",
+    "pulau": "Papua",
+    "rumah_adat": "Honai",
+    "tarian": "Tari Gatsi"
+  },
+  {
+    "no": 36,
+    "provinsi": "Papua Tengah",
+    "ibu_kota": "Nabire",
+    "pulau": "Papua",
+    "rumah_adat": "Honai",
+    "tarian": "Tari Yuwo"
+  },
+  {
+    "no": 37,
+    "provinsi": "Papua Pegunungan",
+    "ibu_kota": "Jayawijaya",
+    "pulau": "Papua",
+    "rumah_adat": "Honai",
+    "tarian": "Tari Perang"
+  },
+  {
+    "no": 38,
+    "provinsi": "Papua Barat Daya",
+    "ibu_kota": "Sorong",
+    "pulau": "Papua",
+    "rumah_adat": "Mod Aki Aksa",
+    "tarian": "Tari Aluyen"
+  }
+]

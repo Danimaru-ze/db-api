@@ -1,0 +1,92 @@
+[
+  {
+    "index": 0,
+    "kode": "B",
+    "wilayah": "DKI Jakarta, Depok, Tangerang, Bekasi",
+    "jawaban": "Jakarta"
+  },
+  {
+    "index": 1,
+    "kode": "D",
+    "wilayah": "Bandung, Cimahi, Bandung Barat",
+    "jawaban": "Bandung"
+  },
+  {
+    "index": 2,
+    "kode": "F",
+    "wilayah": "Bogor, Cianjur, Sukabumi",
+    "jawaban": "Bogor"
+  },
+  {
+    "index": 3,
+    "kode": "E",
+    "wilayah": "Cirebon, Indramayu, Majalengka, Kuningan",
+    "jawaban": "Cirebon"
+  },
+  {
+    "index": 4,
+    "kode": "L",
+    "wilayah": "Kota Surabaya",
+    "jawaban": "Surabaya"
+  },
+  {
+    "index": 5,
+    "kode": "N",
+    "wilayah": "Malang, Probolinggo, Pasuruan, Lumajang",
+    "jawaban": "Malang"
+  },
+  {
+    "index": 6,
+    "kode": "AB",
+    "wilayah": "DI Yogyakarta",
+    "jawaban": "Yogyakarta"
+  },
+  {
+    "index": 7,
+    "kode": "AD",
+    "wilayah": "Surakarta (Solo), Boyolali, Klaten, Sukoharjo, Wonogiri",
+    "jawaban": "Solo"
+  },
+  {
+    "index": 8,
+    "kode": "H",
+    "wilayah": "Semarang, Salatiga, Kendal, Demak",
+    "jawaban": "Semarang"
+  },
+  {
+    "index": 9,
+    "kode": "DK",
+    "wilayah": "Provinsi Bali",
+    "jawaban": "Bali"
+  },
+  {
+    "index": 10,
+    "kode": "BK",
+    "wilayah": "Medan, Deli Serdang, Tebing Tinggi",
+    "jawaban": "Medan"
+  },
+  {
+    "index": 11,
+    "kode": "BA",
+    "wilayah": "Sumatera Barat (Padang, Bukittinggi)",
+    "jawaban": "Padang"
+  },
+  {
+    "index": 12,
+    "kode": "BG",
+    "wilayah": "Sumatera Selatan (Palembang)",
+    "jawaban": "Palembang"
+  },
+  {
+    "index": 13,
+    "kode": "DD",
+    "wilayah": "Sulawesi Selatan (Makassar, Gowa, Maros)",
+    "jawaban": "Makassar"
+  },
+  {
+    "index": 14,
+    "kode": "KB",
+    "wilayah": "Kalimantan Barat (Pontianak)",
+    "jawaban": "Pontianak"
+  }
+]

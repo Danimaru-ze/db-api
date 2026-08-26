@@ -1,0 +1,62 @@
+[
+  {
+    "nama": "Ir. Soekarno",
+    "julukan": "Bapak Proklamator",
+    "asal": "Surabaya, Jawa Timur",
+    "peran": "Presiden pertama RI dan pembaca naskah Proklamasi Kemerdekaan Indonesia 1945."
+  },
+  {
+    "nama": "Drs. Mohammad Hatta",
+    "julukan": "Bapak Koperasi & Proklamator",
+    "asal": "Bukittinggi, Sumatera Barat",
+    "peran": "Wakil Presiden pertama RI, pejuang kemerdekaan, diplomat dan bapak ekonomi kerakyatan."
+  },
+  {
+    "nama": "Jenderal Soedirman",
+    "julukan": "Panglima Besar TNI",
+    "asal": "Purbalingga, Jawa Tengah",
+    "peran": "Panglima TKR pertama yang memimpin perang gerilya melawan agresi militer Belanda meski dalam kondisi sakit parah."
+  },
+  {
+    "nama": "Raden Ajeng Kartini",
+    "julukan": "Pelopor Emansipasi Wanita",
+    "asal": "Jepara, Jawa Tengah",
+    "peran": "Pejuang hak-hak pendidikan dan emansipasi kaum perempuan di Indonesia melalui surat dan tulisannya (Habis Gelap Terbitlah Terang)."
+  },
+  {
+    "nama": "Pangeran Diponegoro",
+    "julukan": "Pemimpin Perang Jawa",
+    "asal": "Yogyakarta",
+    "peran": "Memimpin Perang Diponegoro (1825-1830) yang menjadi salah satu perlawanan terbesar bangsa Indonesia terhadap penjajahan Belanda."
+  },
+  {
+    "nama": "Tuanku Imam Bonjol",
+    "julukan": "Pemimpin Perang Padri",
+    "asal": "Pasaman, Sumatera Barat",
+    "peran": "Pemimpin kaum Padri dalam melawan penjajahan kolonial Belanda di Minangkabau."
+  },
+  {
+    "nama": "Ki Hajar Dewantara",
+    "julukan": "Bapak Pendidikan Nasional",
+    "asal": "Yogyakarta",
+    "peran": "Pendiri perguruan Taman Siswa dan pencetus semboyan 'Ing Ngarsa Sung Tuladha, Ing Madya Mangun Karsa, Tut Wuri Handayani'."
+  },
+  {
+    "nama": "Cut Nyak Dien",
+    "julukan": "Srikandi Tanah Rencong",
+    "asal": "Aceh",
+    "peran": "Pahlawan wanita Aceh yang memimpin pasukan gerilya melawan Belanda di pedalaman hutan Aceh pasca gugurnya Teuku Umar."
+  },
+  {
+    "nama": "Kapitan Pattimura (Thomas Matulessy)",
+    "julukan": "Pahlawan Maluku",
+    "asal": "Saparua, Maluku",
+    "peran": "Memimpin perlawanan rakyat Maluku melawan VOC dan berhasil merebut Benteng Duurstede pada 1817."
+  },
+  {
+    "nama": "I Gusti Ngurah Rai",
+    "julukan": "Pemimpin Perang Puputan Margarana",
+    "asal": "Badung, Bali",
+    "peran": "Memimpin perang habis-habisan (Puputan Margarana) melawan Belanda di Bali demi mempertahankan kemerdekaan RI 1946."
+  }
+]
