@@ -1,0 +1,3972 @@
+[
+  {
+    "index": 1,
+    "nama": "Mani",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/mani.jpg"
+  },
+  {
+    "index": 2,
+    "nama": "Mr. Mellow",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/mr.-mellow.jpg"
+  },
+  {
+    "index": 3,
+    "nama": "Jozu",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/jozu.jpg"
+  },
+  {
+    "index": 4,
+    "nama": "Chiken",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/chiken.jpg"
+  },
+  {
+    "index": 5,
+    "nama": "Mikazuki",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/mikazuki.jpg"
+  },
+  {
+    "index": 6,
+    "nama": "Arrow",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/arrow-.jpg"
+  },
+  {
+    "index": 7,
+    "nama": "Bobby Funk",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/bobby-funk.jpg"
+  },
+  {
+    "index": 8,
+    "nama": "Ninjin",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/ninjin.jpg"
+  },
+  {
+    "index": 9,
+    "nama": "Nyon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/nyon.jpg"
+  },
+  {
+    "index": 10,
+    "nama": "Reuder",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/reuder.jpg"
+  },
+  {
+    "index": 11,
+    "nama": "Harry",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/harry.jpg"
+  },
+  {
+    "index": 12,
+    "nama": "Portgas D. Ace (young)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/portgas-d.-ace-(young).jpg"
+  },
+  {
+    "index": 13,
+    "nama": "Andre",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/andre.jpg"
+  },
+  {
+    "index": 14,
+    "nama": "Fisher Tiger",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/fisher-tiger-.jpg"
+  },
+  {
+    "index": 15,
+    "nama": "Charlotte Compo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/charlotte-compo.jpg"
+  },
+  {
+    "index": 16,
+    "nama": "Ronse",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/ronse.jpg"
+  },
+  {
+    "index": 17,
+    "nama": "Randolph",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/randolph.jpg"
+  },
+  {
+    "index": 18,
+    "nama": "Chappe",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/chappe.jpg"
+  },
+  {
+    "index": 19,
+    "nama": "Doberman",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/doberman-.jpg"
+  },
+  {
+    "index": 20,
+    "nama": "Gan Fall",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/gan-fall.jpg"
+  },
+  {
+    "index": 21,
+    "nama": "Iceburg (young)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/iceburg-(young).jpg"
+  },
+  {
+    "index": 22,
+    "nama": "Cosmos",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/cosmos.jpg"
+  },
+  {
+    "index": 23,
+    "nama": "Ran",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/ran.jpg"
+  },
+  {
+    "index": 24,
+    "nama": "Mister 9",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/mister-9-.jpg"
+  },
+  {
+    "index": 25,
+    "nama": "Rindo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/rindo.jpg"
+  },
+  {
+    "index": 26,
+    "nama": "Lil Achino",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/lil-achino.jpg"
+  },
+  {
+    "index": 27,
+    "nama": "Fabre",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/fabre-.jpg"
+  },
+  {
+    "index": 28,
+    "nama": "Laskey",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/laskey-.jpg"
+  },
+  {
+    "index": 29,
+    "nama": "Johnny",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/johnny.jpg"
+  },
+  {
+    "index": 30,
+    "nama": "Fishbonen",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/fishbonen.jpg"
+  },
+  {
+    "index": 31,
+    "nama": "Rika",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/rika.jpg"
+  },
+  {
+    "index": 32,
+    "nama": "Zambai",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/zambai.jpg"
+  },
+  {
+    "index": 33,
+    "nama": "Fossa",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/fossa.jpg"
+  },
+  {
+    "index": 34,
+    "nama": "Mashikaku",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/mashikaku.jpg"
+  },
+  {
+    "index": 35,
+    "nama": "Saint Roswald",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/saint-roswald.jpg"
+  },
+  {
+    "index": 36,
+    "nama": "Drip",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/drip-.jpg"
+  },
+  {
+    "index": 37,
+    "nama": "Campacino Achino",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/campacino-achino.jpg"
+  },
+  {
+    "index": 38,
+    "nama": "Charlotte Mascarpone",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/charlotte-mascarpone.jpg"
+  },
+  {
+    "index": 39,
+    "nama": "Cabaji the Acrobat",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/cabaji-the-acrobat.jpg"
+  },
+  {
+    "index": 40,
+    "nama": "Dr. Ho",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/dr.-ho.jpg"
+  },
+  {
+    "index": 41,
+    "nama": "Charlotte Dragee",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/charlotte-dragee.jpg"
+  },
+  {
+    "index": 42,
+    "nama": "Akumai",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/akumai-.jpg"
+  },
+  {
+    "index": 43,
+    "nama": "Kaneshiro",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/kaneshiro.jpg"
+  },
+  {
+    "index": 44,
+    "nama": "Very Good",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/very-good-.jpg"
+  },
+  {
+    "index": 45,
+    "nama": "Nigeratta",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/nigeratta.jpg"
+  },
+  {
+    "index": 46,
+    "nama": "Cotton",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/cotton.jpg"
+  },
+  {
+    "index": 47,
+    "nama": "Lola",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/lola.jpg"
+  },
+  {
+    "index": 48,
+    "nama": "Largo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/largo.jpg"
+  },
+  {
+    "index": 49,
+    "nama": "Mr 13",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/mr-13.jpg"
+  },
+  {
+    "index": 50,
+    "nama": "Nora Gitsune",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/nora-gitsune.jpg"
+  },
+  {
+    "index": 51,
+    "nama": "Perona",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/perona.jpg"
+  },
+  {
+    "index": 52,
+    "nama": "Charlotte Linlin (Age 5)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/charlotte-linlin-(age-5).jpg"
+  },
+  {
+    "index": 53,
+    "nama": "Catacombo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/catacombo.jpg"
+  },
+  {
+    "index": 54,
+    "nama": "Avalo Pizarro",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/avalo-pizarro.jpg"
+  },
+  {
+    "index": 55,
+    "nama": "Puzzle",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/puzzle.jpg"
+  },
+  {
+    "index": 56,
+    "nama": "Hocha",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/hocha-.jpg"
+  },
+  {
+    "index": 57,
+    "nama": "Rasa",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/rasa.jpg"
+  },
+  {
+    "index": 58,
+    "nama": "Miss Valentine",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/miss-valentine.jpg"
+  },
+  {
+    "index": 59,
+    "nama": "Pudding Pudding",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/pudding-pudding-.jpg"
+  },
+  {
+    "index": 60,
+    "nama": "Opera Charlotte S.",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/opera-charlotte-s..jpg"
+  },
+  {
+    "index": 61,
+    "nama": "Moyle",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/moyle.jpg"
+  },
+  {
+    "index": 62,
+    "nama": "Brook",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/brook.jpg"
+  },
+  {
+    "index": 63,
+    "nama": "Kiku",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/kiku.jpg"
+  },
+  {
+    "index": 64,
+    "nama": "Mr. Love",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/mr.-love.jpg"
+  },
+  {
+    "index": 65,
+    "nama": "Pound",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/pound.jpg"
+  },
+  {
+    "index": 66,
+    "nama": "Nami",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/nami.jpg"
+  },
+  {
+    "index": 67,
+    "nama": "Nakou",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/nakou.jpg"
+  },
+  {
+    "index": 68,
+    "nama": "Tank Lepanto",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/tank-lepanto.jpg"
+  },
+  {
+    "index": 69,
+    "nama": "Yotsubane",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/yotsubane.jpg"
+  },
+  {
+    "index": 70,
+    "nama": "Carrot",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/carrot.jpg"
+  },
+  {
+    "index": 71,
+    "nama": "Vander Decken IX",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/vander-decken-ix.jpg"
+  },
+  {
+    "index": 72,
+    "nama": "Bellett (Female Form)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/bellett-(female-form).jpg"
+  },
+  {
+    "index": 73,
+    "nama": "Desire",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/desire.jpg"
+  },
+  {
+    "index": 74,
+    "nama": "Bizarre",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/bizarre.jpg"
+  },
+  {
+    "index": 75,
+    "nama": "Kobato",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/kobato.jpg"
+  },
+  {
+    "index": 76,
+    "nama": "Baxcon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/baxcon.jpg"
+  },
+  {
+    "index": 77,
+    "nama": "Egana",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/egana-.jpg"
+  },
+  {
+    "index": 78,
+    "nama": "Vigaro",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/vigaro.jpg"
+  },
+  {
+    "index": 79,
+    "nama": "Heat",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/heat-.jpg"
+  },
+  {
+    "index": 80,
+    "nama": "Gol D. Roger",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/gol-d.-roger.jpg"
+  },
+  {
+    "index": 81,
+    "nama": "Wanze",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/wanze.jpg"
+  },
+  {
+    "index": 82,
+    "nama": "Nika",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/nika.jpg"
+  },
+  {
+    "index": 83,
+    "nama": "Buggy the Star Clown",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/buggy-the-star-clown.jpg"
+  },
+  {
+    "index": 84,
+    "nama": "Bunny Joe",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/bunny-joe.jpg"
+  },
+  {
+    "index": 85,
+    "nama": "T-Bone",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/t-bone.jpg"
+  },
+  {
+    "index": 86,
+    "nama": "Capone Bege",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/capone-bege.jpg"
+  },
+  {
+    "index": 87,
+    "nama": "Heppoko",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/heppoko.jpg"
+  },
+  {
+    "index": 88,
+    "nama": "Yoko",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/yoko.jpg"
+  },
+  {
+    "index": 89,
+    "nama": "Kibin",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/kibin.jpg"
+  },
+  {
+    "index": 90,
+    "nama": "Spector",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/spector-.jpg"
+  },
+  {
+    "index": 91,
+    "nama": "Littonto",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/littonto.jpg"
+  },
+  {
+    "index": 92,
+    "nama": "Terry",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/terry.jpg"
+  },
+  {
+    "index": 93,
+    "nama": "Edward Newgate",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/edward-newgate.jpg"
+  },
+  {
+    "index": 94,
+    "nama": "Sanji",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/sanji.jpg"
+  },
+  {
+    "index": 95,
+    "nama": "Mr. Beans",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/mr.-beans.jpg"
+  },
+  {
+    "index": 96,
+    "nama": "Sanji (young)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/sanji-(young).jpg"
+  },
+  {
+    "index": 97,
+    "nama": "Nico Olvia",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/nico-olvia.jpg"
+  },
+  {
+    "index": 98,
+    "nama": "Apis",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/apis.jpg"
+  },
+  {
+    "index": 99,
+    "nama": "Kaku",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/kaku.jpg"
+  },
+  {
+    "index": 100,
+    "nama": "Sugar",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/sugar.jpg"
+  },
+  {
+    "index": 101,
+    "nama": "Bian",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/bian.jpg"
+  },
+  {
+    "index": 102,
+    "nama": "Hina",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/hina.jpg"
+  },
+  {
+    "index": 103,
+    "nama": "Victoria Cindry",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/victoria-cindry.jpg"
+  },
+  {
+    "index": 104,
+    "nama": "Blackback",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/blackback.jpg"
+  },
+  {
+    "index": 105,
+    "nama": "Mendo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/mendo-.jpg"
+  },
+  {
+    "index": 106,
+    "nama": "Shoo the Lizard",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/shoo-the-lizard.jpg"
+  },
+  {
+    "index": 107,
+    "nama": "Den",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/den.jpg"
+  },
+  {
+    "index": 108,
+    "nama": "Bogart",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/bogart.jpg"
+  },
+  {
+    "index": 109,
+    "nama": "Califa",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/califa.jpg"
+  },
+  {
+    "index": 110,
+    "nama": "Lucky Roo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/lucky-roo-.jpg"
+  },
+  {
+    "index": 111,
+    "nama": "Sarquiss",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/sarquiss.jpg"
+  },
+  {
+    "index": 112,
+    "nama": "Igaram",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/igaram.jpg"
+  },
+  {
+    "index": 113,
+    "nama": "Jimbei",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/jimbei.jpg"
+  },
+  {
+    "index": 114,
+    "nama": "Nefertari Titi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/nefertari-titi.jpg"
+  },
+  {
+    "index": 115,
+    "nama": "Chocolat",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/chocolat-.jpg"
+  },
+  {
+    "index": 116,
+    "nama": "Nekomamushi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/nekomamushi.jpg"
+  },
+  {
+    "index": 117,
+    "nama": "Humphrey",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/humphrey-.jpg"
+  },
+  {
+    "index": 118,
+    "nama": "Enishida",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/enishida.jpg"
+  },
+  {
+    "index": 119,
+    "nama": "Silvers Rayleigh",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/silvers-rayleigh.jpg"
+  },
+  {
+    "index": 120,
+    "nama": "Kanezenny",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/kanezenny.jpg"
+  },
+  {
+    "index": 121,
+    "nama": "Z",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/z.jpg"
+  },
+  {
+    "index": 122,
+    "nama": "Wicca",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/wicca.jpg"
+  },
+  {
+    "index": 123,
+    "nama": "Mummy Mee",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/mummy-mee.jpg"
+  },
+  {
+    "index": 124,
+    "nama": "Demalo Black",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/demalo-black.jpg"
+  },
+  {
+    "index": 125,
+    "nama": "Drake",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/drake.jpg"
+  },
+  {
+    "index": 126,
+    "nama": "Porsche",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/porsche.jpg"
+  },
+  {
+    "index": 127,
+    "nama": "Mozu",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/mozu.jpg"
+  },
+  {
+    "index": 128,
+    "nama": "Fullbody",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/fullbody-.jpg"
+  },
+  {
+    "index": 129,
+    "nama": "Fen Bock",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/fen-bock.jpg"
+  },
+  {
+    "index": 130,
+    "nama": "Fukaboshi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/fukaboshi.jpg"
+  },
+  {
+    "index": 131,
+    "nama": "Nojiko",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/nojiko.jpg"
+  },
+  {
+    "index": 132,
+    "nama": "Smoker",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/smoker.jpg"
+  },
+  {
+    "index": 133,
+    "nama": "Julius",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/julius.jpg"
+  },
+  {
+    "index": 134,
+    "nama": "Agotogi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/agotogi-.jpg"
+  },
+  {
+    "index": 135,
+    "nama": "Higuma",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/higuma.jpg"
+  },
+  {
+    "index": 136,
+    "nama": "Hordy Jones (young)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/hordy-jones-(young).jpg"
+  },
+  {
+    "index": 137,
+    "nama": "Mero",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/mero.jpg"
+  },
+  {
+    "index": 138,
+    "nama": "Doc Q",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/doc-q.jpg"
+  },
+  {
+    "index": 139,
+    "nama": "Eric the Whirlwind",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/eric-the-whirlwind.jpg"
+  },
+  {
+    "index": 140,
+    "nama": "Hockera Achino",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/hockera-achino.jpg"
+  },
+  {
+    "index": 141,
+    "nama": "Arbell Achino",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/arbell-achino.jpg"
+  },
+  {
+    "index": 142,
+    "nama": "Lake",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/lake.jpg"
+  },
+  {
+    "index": 143,
+    "nama": "Charlotte Laurin",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/charlotte-laurin.jpg"
+  },
+  {
+    "index": 144,
+    "nama": "Henzo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/henzo.jpg"
+  },
+  {
+    "index": 145,
+    "nama": "Banban",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/banban-.jpg"
+  },
+  {
+    "index": 146,
+    "nama": "Akainu",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/akainu.jpg"
+  },
+  {
+    "index": 147,
+    "nama": "Zenny",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/zenny-.jpg"
+  },
+  {
+    "index": 148,
+    "nama": "Killer",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/killer.jpg"
+  },
+  {
+    "index": 149,
+    "nama": "Amazon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/amazon.jpg"
+  },
+  {
+    "index": 150,
+    "nama": "Zeff",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/zeff.jpg"
+  },
+  {
+    "index": 151,
+    "nama": "Curiel",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/curiel.jpg"
+  },
+  {
+    "index": 152,
+    "nama": "Kaido",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/kaido.jpg"
+  },
+  {
+    "index": 153,
+    "nama": "Lil",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/lil.jpg"
+  },
+  {
+    "index": 154,
+    "nama": "Otama",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/otama.jpg"
+  },
+  {
+    "index": 155,
+    "nama": "Daddy Masterson",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/daddy-masterson.jpg"
+  },
+  {
+    "index": 156,
+    "nama": "Ukkari",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/ukkari.jpg"
+  },
+  {
+    "index": 157,
+    "nama": "Toto",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/toto.jpg"
+  },
+  {
+    "index": 158,
+    "nama": "Maria Onion Bear",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/maria-onion-bear.jpg"
+  },
+  {
+    "index": 159,
+    "nama": "Charlotte Snack",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/charlotte-snack.jpg"
+  },
+  {
+    "index": 160,
+    "nama": "Boodle",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/boodle-.jpg"
+  },
+  {
+    "index": 161,
+    "nama": "Sanka",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/sanka.jpg"
+  },
+  {
+    "index": 162,
+    "nama": "Hordy Jones",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/hordy-jones.jpg"
+  },
+  {
+    "index": 163,
+    "nama": "Emporio Ivankov (male form)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/emporio-ivankov-(male-form).jpg"
+  },
+  {
+    "index": 164,
+    "nama": "Muret",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/muret.jpg"
+  },
+  {
+    "index": 165,
+    "nama": "Asahija",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/asahija.jpg"
+  },
+  {
+    "index": 166,
+    "nama": "Mauji",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/mauji.jpg"
+  },
+  {
+    "index": 167,
+    "nama": "Basil Hawkins",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/basil-hawkins.jpg"
+  },
+  {
+    "index": 168,
+    "nama": "Carmen",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/carmen-.jpg"
+  },
+  {
+    "index": 169,
+    "nama": "Charlotte Custard",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/charlotte-custard.jpg"
+  },
+  {
+    "index": 170,
+    "nama": "Kasa",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/kasa-.jpg"
+  },
+  {
+    "index": 171,
+    "nama": "Sentomaru",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/sentomaru-.jpg"
+  },
+  {
+    "index": 172,
+    "nama": "Maidy",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/maidy.jpg"
+  },
+  {
+    "index": 173,
+    "nama": "Brahm",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/brahm-.jpg"
+  },
+  {
+    "index": 174,
+    "nama": "Haruta",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/haruta-.jpg"
+  },
+  {
+    "index": 175,
+    "nama": "Yasopp",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/yasopp.jpg"
+  },
+  {
+    "index": 176,
+    "nama": "Franky",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/franky.jpg"
+  },
+  {
+    "index": 177,
+    "nama": "Monjii",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/monjii.jpg"
+  },
+  {
+    "index": 178,
+    "nama": "Hiramera",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/hiramera-.jpg"
+  },
+  {
+    "index": 179,
+    "nama": "Vasco Shot",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/vasco-shot.jpg"
+  },
+  {
+    "index": 180,
+    "nama": "Blue Gilly",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/blue-gilly.jpg"
+  },
+  {
+    "index": 181,
+    "nama": "Cocoa",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/cocoa-.jpg"
+  },
+  {
+    "index": 182,
+    "nama": "Koshirou",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/koshirou.jpg"
+  },
+  {
+    "index": 183,
+    "nama": "Bill",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/bill.jpg"
+  },
+  {
+    "index": 184,
+    "nama": "Epoida",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/epoida.jpg"
+  },
+  {
+    "index": 185,
+    "nama": "Ghin the Man-Demon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/ghin-the-man-demon-.jpg"
+  },
+  {
+    "index": 186,
+    "nama": "Shepherd",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/shepherd.jpg"
+  },
+  {
+    "index": 187,
+    "nama": "Barbarossa",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/barbarossa.jpg"
+  },
+  {
+    "index": 188,
+    "nama": "Charlotte Compote",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/charlotte-compote.jpg"
+  },
+  {
+    "index": 189,
+    "nama": "Aphelandra",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/aphelandra.jpg"
+  },
+  {
+    "index": 190,
+    "nama": "Hyota",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/hyota.jpg"
+  },
+  {
+    "index": 191,
+    "nama": "Thalassa Lucas",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/thalassa-lucas.jpg"
+  },
+  {
+    "index": 192,
+    "nama": "Elizabeth",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/elizabeth.jpg"
+  },
+  {
+    "index": 193,
+    "nama": "King Riku",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/king-riku.jpg"
+  },
+  {
+    "index": 194,
+    "nama": "Lao G",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/lao-g.jpg"
+  },
+  {
+    "index": 195,
+    "nama": "Charlotte Kato",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/charlotte-kato.jpg"
+  },
+  {
+    "index": 196,
+    "nama": "Karma",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/karma.jpg"
+  },
+  {
+    "index": 197,
+    "nama": "Charlotte Newichi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/charlotte-newichi.jpg"
+  },
+  {
+    "index": 198,
+    "nama": "Sweet Pea",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/sweet-pea.jpg"
+  },
+  {
+    "index": 199,
+    "nama": "Manboshi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/manboshi.jpg"
+  },
+  {
+    "index": 200,
+    "nama": "Arbell",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/arbell.jpg"
+  },
+  {
+    "index": 201,
+    "nama": "Jonathan",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/jonathan-.jpg"
+  },
+  {
+    "index": 202,
+    "nama": "Biyo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/biyo.jpg"
+  },
+  {
+    "index": 203,
+    "nama": "John Giant",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/john-giant-.jpg"
+  },
+  {
+    "index": 204,
+    "nama": "Ashura Doji",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/ashura-doji.jpg"
+  },
+  {
+    "index": 205,
+    "nama": "Charlotte Pudding",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/charlotte-pudding.jpg"
+  },
+  {
+    "index": 206,
+    "nama": "Sind",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/sind.jpg"
+  },
+  {
+    "index": 207,
+    "nama": "Penguin",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/penguin.jpg"
+  },
+  {
+    "index": 208,
+    "nama": "Eustass Kid",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/eustass-kid.jpg"
+  },
+  {
+    "index": 209,
+    "nama": "Buchi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/buchi.jpg"
+  },
+  {
+    "index": 210,
+    "nama": "Charlotte Basans",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/charlotte-basans.jpg"
+  },
+  {
+    "index": 211,
+    "nama": "Galette Charlotte S.",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/galette-charlotte-s..jpg"
+  },
+  {
+    "index": 212,
+    "nama": "Giolla",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/giolla.jpg"
+  },
+  {
+    "index": 213,
+    "nama": "Warashi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/warashi.jpg"
+  },
+  {
+    "index": 214,
+    "nama": "Spoil",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/spoil-.jpg"
+  },
+  {
+    "index": 215,
+    "nama": "Tamachibi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/tamachibi-.jpg"
+  },
+  {
+    "index": 216,
+    "nama": "Carne",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/carne.jpg"
+  },
+  {
+    "index": 217,
+    "nama": "Kitton",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/kitton.jpg"
+  },
+  {
+    "index": 218,
+    "nama": "Devil Dias",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/devil-dias-.jpg"
+  },
+  {
+    "index": 219,
+    "nama": "Tashigi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/tashigi.jpg"
+  },
+  {
+    "index": 220,
+    "nama": "Nuru",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/nuru.jpg"
+  },
+  {
+    "index": 221,
+    "nama": "Charlotte Dolce",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/charlotte-dolce.jpg"
+  },
+  {
+    "index": 222,
+    "nama": "Hotori and Kotori",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/hotori-and-kotori.jpg"
+  },
+  {
+    "index": 223,
+    "nama": "Boa Hancock (young)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/boa-hancock-(young).jpg"
+  },
+  {
+    "index": 224,
+    "nama": "Dorry the Blue Ogre",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/dorry-the-blue-ogre-.jpg"
+  },
+  {
+    "index": 225,
+    "nama": "Eneru",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/eneru.jpg"
+  },
+  {
+    "index": 226,
+    "nama": "Vinsmoke Ichiji",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/vinsmoke-ichiji.jpg"
+  },
+  {
+    "index": 227,
+    "nama": "Kyuin",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/kyuin.jpg"
+  },
+  {
+    "index": 228,
+    "nama": "Charlotte Counter",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/charlotte-counter.jpg"
+  },
+  {
+    "index": 229,
+    "nama": "Montblanc Cricket",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/montblanc-cricket.jpg"
+  },
+  {
+    "index": 230,
+    "nama": "Stool",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/stool.jpg"
+  },
+  {
+    "index": 231,
+    "nama": "Ichika",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/ichika.jpg"
+  },
+  {
+    "index": 232,
+    "nama": "Charlotte Brownie",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/charlotte-brownie.jpg"
+  },
+  {
+    "index": 233,
+    "nama": "Machvise",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/machvise.jpg"
+  },
+  {
+    "index": 234,
+    "nama": "Pickles",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/pickles-.jpg"
+  },
+  {
+    "index": 235,
+    "nama": "Splatter",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/splatter-.jpg"
+  },
+  {
+    "index": 236,
+    "nama": "Raoul",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/raoul.jpg"
+  },
+  {
+    "index": 237,
+    "nama": "Marin",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/marin.jpg"
+  },
+  {
+    "index": 238,
+    "nama": "Nerine",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/nerine.jpg"
+  },
+  {
+    "index": 239,
+    "nama": "Mohji",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/mohji.jpg"
+  },
+  {
+    "index": 240,
+    "nama": "Charlotte Dacquoise",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/charlotte-dacquoise.jpg"
+  },
+  {
+    "index": 241,
+    "nama": "Vista",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/vista.jpg"
+  },
+  {
+    "index": 242,
+    "nama": "Charlotte Cabaletta",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/charlotte-cabaletta.jpg"
+  },
+  {
+    "index": 243,
+    "nama": "Pavlik",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/pavlik.jpg"
+  },
+  {
+    "index": 244,
+    "nama": "Charlotte High-Fat",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/charlotte-high-fat.jpg"
+  },
+  {
+    "index": 245,
+    "nama": "Axe-Hand Morgan",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/axe-hand-morgan.jpg"
+  },
+  {
+    "index": 246,
+    "nama": "Rebecca",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/rebecca.jpg"
+  },
+  {
+    "index": 247,
+    "nama": "Wapol",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/wapol.jpg"
+  },
+  {
+    "index": 248,
+    "nama": "Race",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/race.jpg"
+  },
+  {
+    "index": 249,
+    "nama": "Kohza",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/kohza.jpg"
+  },
+  {
+    "index": 250,
+    "nama": "Mousse",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/mousse-.jpg"
+  },
+  {
+    "index": 251,
+    "nama": "Wiper",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/wiper.jpg"
+  },
+  {
+    "index": 252,
+    "nama": "Dosun",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/dosun.jpg"
+  },
+  {
+    "index": 253,
+    "nama": "Kokoro",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/kokoro.jpg"
+  },
+  {
+    "index": 254,
+    "nama": "Tom",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/tom.jpg"
+  },
+  {
+    "index": 255,
+    "nama": "Hyouzou",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/hyouzou.jpg"
+  },
+  {
+    "index": 256,
+    "nama": "Chesskippa the Hanger-on",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/chesskippa-the-hanger-on.jpg"
+  },
+  {
+    "index": 257,
+    "nama": "Shanks",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/shanks.jpg"
+  },
+  {
+    "index": 258,
+    "nama": "Islewan",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/islewan.jpg"
+  },
+  {
+    "index": 259,
+    "nama": "Yu",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/yu.jpg"
+  },
+  {
+    "index": 260,
+    "nama": "Hiluluk",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/hiluluk.jpg"
+  },
+  {
+    "index": 261,
+    "nama": "Charlotte Tablet",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/charlotte-tablet.jpg"
+  },
+  {
+    "index": 262,
+    "nama": "Komir",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/komir.jpg"
+  },
+  {
+    "index": 263,
+    "nama": "Peppoko",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/peppoko-.jpg"
+  },
+  {
+    "index": 264,
+    "nama": "Chao",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/chao.jpg"
+  },
+  {
+    "index": 265,
+    "nama": "Glove",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/glove.jpg"
+  },
+  {
+    "index": 266,
+    "nama": "Kuina",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/kuina.jpg"
+  },
+  {
+    "index": 267,
+    "nama": "Stansen",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/stansen-.jpg"
+  },
+  {
+    "index": 268,
+    "nama": "Foxy",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/foxy.jpg"
+  },
+  {
+    "index": 269,
+    "nama": "Ripper",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/ripper.jpg"
+  },
+  {
+    "index": 270,
+    "nama": "Nugire Yainu",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/nugire-yainu.jpg"
+  },
+  {
+    "index": 271,
+    "nama": "Boo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/boo.jpg"
+  },
+  {
+    "index": 272,
+    "nama": "Luca",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/luca.jpg"
+  },
+  {
+    "index": 273,
+    "nama": "Moodie",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/moodie.jpg"
+  },
+  {
+    "index": 274,
+    "nama": "Karoo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/karoo.jpg"
+  },
+  {
+    "index": 275,
+    "nama": "Adele",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/adele.jpg"
+  },
+  {
+    "index": 276,
+    "nama": "Jessica",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/jessica.jpg"
+  },
+  {
+    "index": 277,
+    "nama": "Auntie",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/auntie.jpg"
+  },
+  {
+    "index": 278,
+    "nama": "Abi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/abi.jpg"
+  },
+  {
+    "index": 279,
+    "nama": "Gladius",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/gladius.jpg"
+  },
+  {
+    "index": 280,
+    "nama": "Raizo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/raizo.jpg"
+  },
+  {
+    "index": 281,
+    "nama": "Kuro",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/kuro.jpg"
+  },
+  {
+    "index": 282,
+    "nama": "Turco",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/turco.jpg"
+  },
+  {
+    "index": 283,
+    "nama": "Kinga",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/kinga.jpg"
+  },
+  {
+    "index": 284,
+    "nama": "Boa Marigold",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/boa-marigold.jpg"
+  },
+  {
+    "index": 285,
+    "nama": "Mr. 4",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/mr.-4.jpg"
+  },
+  {
+    "index": 286,
+    "nama": "Mounblutain",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/mounblutain.jpg"
+  },
+  {
+    "index": 287,
+    "nama": "King Neptune",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/king-neptune.jpg"
+  },
+  {
+    "index": 288,
+    "nama": "Vergo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/vergo.jpg"
+  },
+  {
+    "index": 289,
+    "nama": "Helmeppo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/helmeppo.jpg"
+  },
+  {
+    "index": 290,
+    "nama": "Ramba",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/ramba.jpg"
+  },
+  {
+    "index": 291,
+    "nama": "Goo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/goo.jpg"
+  },
+  {
+    "index": 292,
+    "nama": "Margarita",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/margarita-.jpg"
+  },
+  {
+    "index": 293,
+    "nama": "Momonga",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/momonga-.jpg"
+  },
+  {
+    "index": 294,
+    "nama": "Baskerville-Princess",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/baskerville-princess-.jpg"
+  },
+  {
+    "index": 295,
+    "nama": "Alvida",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/alvida.jpg"
+  },
+  {
+    "index": 296,
+    "nama": "Noko",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/noko.jpg"
+  },
+  {
+    "index": 297,
+    "nama": "Kizaru",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/kizaru.jpg"
+  },
+  {
+    "index": 298,
+    "nama": "Guyle",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/guyle.jpg"
+  },
+  {
+    "index": 299,
+    "nama": "Brownbeard",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/brownbeard.jpg"
+  },
+  {
+    "index": 300,
+    "nama": "Elizabello II",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/elizabello-ii.jpg"
+  },
+  {
+    "index": 301,
+    "nama": "Salcho Achino",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/salcho-achino.jpg"
+  },
+  {
+    "index": 302,
+    "nama": "Rokuroshi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/rokuroshi-.jpg"
+  },
+  {
+    "index": 303,
+    "nama": "Monkey D. Luffy (young)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/monkey-d.-luffy-(young).jpg"
+  },
+  {
+    "index": 304,
+    "nama": "Bayan",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/bayan.jpg"
+  },
+  {
+    "index": 305,
+    "nama": "Tonjit",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/tonjit.jpg"
+  },
+  {
+    "index": 306,
+    "nama": "Captain Moore",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/captain-moore.jpg"
+  },
+  {
+    "index": 307,
+    "nama": "Hattori",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/hattori-.jpg"
+  },
+  {
+    "index": 308,
+    "nama": "Scopper Gyaban",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/scopper-gyaban.jpg"
+  },
+  {
+    "index": 309,
+    "nama": "Barrel",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/barrel.jpg"
+  },
+  {
+    "index": 310,
+    "nama": "Nefertari Vivi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/nefertari-vivi.jpg"
+  },
+  {
+    "index": 311,
+    "nama": "Richie",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/richie.jpg"
+  },
+  {
+    "index": 312,
+    "nama": "Saint Myosgard",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/saint-myosgard.jpg"
+  },
+  {
+    "index": 313,
+    "nama": "Jigoro of the Wind",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/jigoro-of-the-wind-.jpg"
+  },
+  {
+    "index": 314,
+    "nama": "Koala",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/koala.jpg"
+  },
+  {
+    "index": 315,
+    "nama": "Shakuyaku",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/shakuyaku.jpg"
+  },
+  {
+    "index": 316,
+    "nama": "Roronoa Zoro (young)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/roronoa-zoro-(young).jpg"
+  },
+  {
+    "index": 317,
+    "nama": "Belladonna",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/belladonna.jpg"
+  },
+  {
+    "index": 318,
+    "nama": "Charlotte Saint-Marc",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/charlotte-saint-marc.jpg"
+  },
+  {
+    "index": 319,
+    "nama": "Damask",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/damask.jpg"
+  },
+  {
+    "index": 320,
+    "nama": "Gecko Moria",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/gecko-moria.jpg"
+  },
+  {
+    "index": 321,
+    "nama": "Queen Otohime",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/queen-otohime-.jpg"
+  },
+  {
+    "index": 322,
+    "nama": "Charlotte Cadenza",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/charlotte-cadenza.jpg"
+  },
+  {
+    "index": 323,
+    "nama": "Phillip",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/phillip-.jpg"
+  },
+  {
+    "index": 324,
+    "nama": "Gaimon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/gaimon.jpg"
+  },
+  {
+    "index": 325,
+    "nama": "Aisa",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/aisa.jpg"
+  },
+  {
+    "index": 326,
+    "nama": "Jeff Plunk",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/jeff-plunk.jpg"
+  },
+  {
+    "index": 327,
+    "nama": "Roche",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/roche-.jpg"
+  },
+  {
+    "index": 328,
+    "nama": "X Drake",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/x-drake.jpg"
+  },
+  {
+    "index": 329,
+    "nama": "Mr. 2 Bon Clay",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/mr.-2-bon-clay.jpg"
+  },
+  {
+    "index": 330,
+    "nama": "Baskerville-Kerville",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/baskerville-kerville-.jpg"
+  },
+  {
+    "index": 331,
+    "nama": "Namur",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/namur.jpg"
+  },
+  {
+    "index": 332,
+    "nama": "Minoruba",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/minoruba-.jpg"
+  },
+  {
+    "index": 333,
+    "nama": "Candre",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/candre.jpg"
+  },
+  {
+    "index": 334,
+    "nama": "Soran",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/soran.jpg"
+  },
+  {
+    "index": 335,
+    "nama": "Genzou",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/genzou.jpg"
+  },
+  {
+    "index": 336,
+    "nama": "Pansy",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/pansy.jpg"
+  },
+  {
+    "index": 337,
+    "nama": "Charlotte Perospero",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/charlotte-perospero.jpg"
+  },
+  {
+    "index": 338,
+    "nama": "Hanger",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/hanger.jpg"
+  },
+  {
+    "index": 339,
+    "nama": "Pukau",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/pukau.jpg"
+  },
+  {
+    "index": 340,
+    "nama": "Wadatsumi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/wadatsumi.jpg"
+  },
+  {
+    "index": 341,
+    "nama": "Kiev",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/kiev.jpg"
+  },
+  {
+    "index": 342,
+    "nama": "Tony Tony Chopper",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/tony-tony-chopper.jpg"
+  },
+  {
+    "index": 343,
+    "nama": "Dr. Hogback",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/dr.-hogback-.jpg"
+  },
+  {
+    "index": 344,
+    "nama": "Inazuma (female form)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/inazuma-(female-form).jpg"
+  },
+  {
+    "index": 345,
+    "nama": "Capote",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/capote.jpg"
+  },
+  {
+    "index": 346,
+    "nama": "Diamante",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/diamante.jpg"
+  },
+  {
+    "index": 347,
+    "nama": "Jesus Burgess",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/jesus-burgess.jpg"
+  },
+  {
+    "index": 348,
+    "nama": "Kumacy",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/kumacy.jpg"
+  },
+  {
+    "index": 349,
+    "nama": "Kohza (young)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/kohza-(young).jpg"
+  },
+  {
+    "index": 350,
+    "nama": "Charlotte Newgo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/charlotte-newgo.jpg"
+  },
+  {
+    "index": 351,
+    "nama": "Henzo (young)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/henzo-(young).jpg"
+  },
+  {
+    "index": 352,
+    "nama": "Sutton",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/sutton.jpg"
+  },
+  {
+    "index": 353,
+    "nama": "Piman",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/piman.jpg"
+  },
+  {
+    "index": 354,
+    "nama": "Carol Masterson",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/carol-masterson.jpg"
+  },
+  {
+    "index": 355,
+    "nama": "Rokkaku",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/rokkaku.jpg"
+  },
+  {
+    "index": 356,
+    "nama": "Charlotte Daifuku",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/charlotte-daifuku.jpg"
+  },
+  {
+    "index": 357,
+    "nama": "Ms. Golden Week",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/ms.-golden-week.jpg"
+  },
+  {
+    "index": 358,
+    "nama": "Comil",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/comil.jpg"
+  },
+  {
+    "index": 359,
+    "nama": "Dalmatian",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/dalmatian.jpg"
+  },
+  {
+    "index": 360,
+    "nama": "Gambia",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/gambia.jpg"
+  },
+  {
+    "index": 361,
+    "nama": "Jean Ango",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/jean-ango.jpg"
+  },
+  {
+    "index": 362,
+    "nama": "Vinsmoke Yonji",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/vinsmoke-yonji.jpg"
+  },
+  {
+    "index": 363,
+    "nama": "Minister of the Right",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/minister-of-the-right.jpg"
+  },
+  {
+    "index": 364,
+    "nama": "Mayushika",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/mayushika.jpg"
+  },
+  {
+    "index": 365,
+    "nama": "Pearl the Iron Wall",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/pearl-the-iron-wall.jpg"
+  },
+  {
+    "index": 366,
+    "nama": "Makino",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/makino.jpg"
+  },
+  {
+    "index": 367,
+    "nama": "Eggplant Soldier",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/eggplant-soldier.jpg"
+  },
+  {
+    "index": 368,
+    "nama": "Doma",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/doma.jpg"
+  },
+  {
+    "index": 369,
+    "nama": "Milia",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/milia-.jpg"
+  },
+  {
+    "index": 370,
+    "nama": "Charlotte Myukuru",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/charlotte-myukuru.jpg"
+  },
+  {
+    "index": 371,
+    "nama": "Thatch",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/thatch.jpg"
+  },
+  {
+    "index": 372,
+    "nama": "Yuki",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/yuki.jpg"
+  },
+  {
+    "index": 373,
+    "nama": "Basil",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/basil.jpg"
+  },
+  {
+    "index": 374,
+    "nama": "Bellett",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/bellett.jpg"
+  },
+  {
+    "index": 375,
+    "nama": "Atmos",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/atmos.jpg"
+  },
+  {
+    "index": 376,
+    "nama": "Prince Bellett",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/prince-bellett-.jpg"
+  },
+  {
+    "index": 377,
+    "nama": "Oimo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/oimo-.jpg"
+  },
+  {
+    "index": 378,
+    "nama": "Kikyo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/kikyo.jpg"
+  },
+  {
+    "index": 379,
+    "nama": "Wet-Haired Caribou",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/wet-haired-caribou.jpg"
+  },
+  {
+    "index": 380,
+    "nama": "Duval",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/duval.jpg"
+  },
+  {
+    "index": 381,
+    "nama": "Ms. Doublefinger",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/ms.-doublefinger.jpg"
+  },
+  {
+    "index": 382,
+    "nama": "Jose",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/jose.jpg"
+  },
+  {
+    "index": 383,
+    "nama": "Chimney",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/chimney.jpg"
+  },
+  {
+    "index": 384,
+    "nama": "Delacuaji",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/delacuaji.jpg"
+  },
+  {
+    "index": 385,
+    "nama": "Charlotte Mobile",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/charlotte-mobile.jpg"
+  },
+  {
+    "index": 386,
+    "nama": "Wire",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/wire.jpg"
+  },
+  {
+    "index": 387,
+    "nama": "Stevie",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/stevie.jpg"
+  },
+  {
+    "index": 388,
+    "nama": "Yama",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/yama.jpg"
+  },
+  {
+    "index": 389,
+    "nama": "Chess",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/chess.jpg"
+  },
+  {
+    "index": 390,
+    "nama": "Brew",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/brew.jpg"
+  },
+  {
+    "index": 391,
+    "nama": "Professor Clover",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/professor-clover.jpg"
+  },
+  {
+    "index": 392,
+    "nama": "Hammond",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/hammond-.jpg"
+  },
+  {
+    "index": 393,
+    "nama": "Bomba",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/bomba.jpg"
+  },
+  {
+    "index": 394,
+    "nama": "Jiro",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/jiro-.jpg"
+  },
+  {
+    "index": 395,
+    "nama": "Chew",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/chew.jpg"
+  },
+  {
+    "index": 396,
+    "nama": "Schollzo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/schollzo.jpg"
+  },
+  {
+    "index": 397,
+    "nama": "Magellan",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/magellan.jpg"
+  },
+  {
+    "index": 398,
+    "nama": "Galdino",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/galdino.jpg"
+  },
+  {
+    "index": 399,
+    "nama": "Pekoms",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/pekoms.jpg"
+  },
+  {
+    "index": 400,
+    "nama": "Pagaya",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/pagaya.jpg"
+  },
+  {
+    "index": 401,
+    "nama": "Tamago",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/tamago.jpg"
+  },
+  {
+    "index": 402,
+    "nama": "Nico Robin (young)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/nico-robin-(young).jpg"
+  },
+  {
+    "index": 403,
+    "nama": "Don Accino",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/don-accino.jpg"
+  },
+  {
+    "index": 404,
+    "nama": "Mao",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/mao.jpg"
+  },
+  {
+    "index": 405,
+    "nama": "Stussy",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/stussy.jpg"
+  },
+  {
+    "index": 406,
+    "nama": "Corto",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/corto-.jpg"
+  },
+  {
+    "index": 407,
+    "nama": "Daddy Dee",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/daddy-dee.jpg"
+  },
+  {
+    "index": 408,
+    "nama": "Salchow",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/salchow.jpg"
+  },
+  {
+    "index": 409,
+    "nama": "Wetton",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/wetton.jpg"
+  },
+  {
+    "index": 410,
+    "nama": "Butchie",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/butchie.jpg"
+  },
+  {
+    "index": 411,
+    "nama": "Seira",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/seira.jpg"
+  },
+  {
+    "index": 412,
+    "nama": "Hoichael",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/hoichael-.jpg"
+  },
+  {
+    "index": 413,
+    "nama": "Dogra",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/dogra.jpg"
+  },
+  {
+    "index": 414,
+    "nama": "Hockera",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/hockera.jpg"
+  },
+  {
+    "index": 415,
+    "nama": "Yamakaji",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/yamakaji.jpg"
+  },
+  {
+    "index": 416,
+    "nama": "Roji",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/roji-.jpg"
+  },
+  {
+    "index": 417,
+    "nama": "Aokiji",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/aokiji.jpg"
+  },
+  {
+    "index": 418,
+    "nama": "Yonka",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/yonka.jpg"
+  },
+  {
+    "index": 419,
+    "nama": "Busshiri",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/busshiri-.jpg"
+  },
+  {
+    "index": 420,
+    "nama": "Lily",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/lily.jpg"
+  },
+  {
+    "index": 421,
+    "nama": "Rint",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/rint.jpg"
+  },
+  {
+    "index": 422,
+    "nama": "Jack",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/jack.jpg"
+  },
+  {
+    "index": 423,
+    "nama": "Bepo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/bepo.jpg"
+  },
+  {
+    "index": 424,
+    "nama": "Byron",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/byron-.jpg"
+  },
+  {
+    "index": 425,
+    "nama": "Terracotta",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/terracotta.jpg"
+  },
+  {
+    "index": 426,
+    "nama": "Wyn Delano",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/wyn-delano.jpg"
+  },
+  {
+    "index": 427,
+    "nama": "Vinsmoke Niji",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/vinsmoke-niji.jpg"
+  },
+  {
+    "index": 428,
+    "nama": "Daruma",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/daruma.jpg"
+  },
+  {
+    "index": 429,
+    "nama": "Bonney",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/bonney-.jpg"
+  },
+  {
+    "index": 430,
+    "nama": "Strawberry",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/strawberry-.jpg"
+  },
+  {
+    "index": 431,
+    "nama": "Senor Pink",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/senor-pink.jpg"
+  },
+  {
+    "index": 432,
+    "nama": "Poppoko",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/poppoko.jpg"
+  },
+  {
+    "index": 433,
+    "nama": "Gorilla",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/gorilla.jpg"
+  },
+  {
+    "index": 434,
+    "nama": "Tsuru",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/tsuru.jpg"
+  },
+  {
+    "index": 435,
+    "nama": "Kasagon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/kasagon.jpg"
+  },
+  {
+    "index": 436,
+    "nama": "Zeo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/zeo.jpg"
+  },
+  {
+    "index": 437,
+    "nama": "Nico Robin",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/nico-robin.jpg"
+  },
+  {
+    "index": 438,
+    "nama": "Charlotte Amande",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/charlotte-amande.jpg"
+  },
+  {
+    "index": 439,
+    "nama": "Dalton",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/dalton.jpg"
+  },
+  {
+    "index": 440,
+    "nama": "Speed Jiru",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/speed-jiru.jpg"
+  },
+  {
+    "index": 441,
+    "nama": "Odama",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/odama.jpg"
+  },
+  {
+    "index": 442,
+    "nama": "Roronoa Zoro",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/roronoa-zoro.jpg"
+  },
+  {
+    "index": 443,
+    "nama": "Charlotte Joconde",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/charlotte-joconde.jpg"
+  },
+  {
+    "index": 444,
+    "nama": "Camu",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/camu.jpg"
+  },
+  {
+    "index": 445,
+    "nama": "Charlotte Yuen",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/charlotte-yuen.jpg"
+  },
+  {
+    "index": 446,
+    "nama": "Kashi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/kashi.jpg"
+  },
+  {
+    "index": 447,
+    "nama": "Brocca",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/brocca.jpg"
+  },
+  {
+    "index": 448,
+    "nama": "Izou",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/izou.jpg"
+  },
+  {
+    "index": 449,
+    "nama": "Cancer",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/cancer.jpg"
+  },
+  {
+    "index": 450,
+    "nama": "Kelly Funk",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/kelly-funk.jpg"
+  },
+  {
+    "index": 451,
+    "nama": "Charlotte Newji",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/charlotte-newji.jpg"
+  },
+  {
+    "index": 452,
+    "nama": "Bellemare",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/bellemare.jpg"
+  },
+  {
+    "index": 453,
+    "nama": "Antonio",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/antonio.jpg"
+  },
+  {
+    "index": 454,
+    "nama": "Nelson Royale",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/nelson-royale.jpg"
+  },
+  {
+    "index": 455,
+    "nama": "Braham",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/braham.jpg"
+  },
+  {
+    "index": 456,
+    "nama": "Satori of the Forest",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/satori-of-the-forest.jpg"
+  },
+  {
+    "index": 457,
+    "nama": "Skybreeder Ohm",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/skybreeder-ohm.jpg"
+  },
+  {
+    "index": 458,
+    "nama": "Doran",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/doran.jpg"
+  },
+  {
+    "index": 459,
+    "nama": "Catarina Devon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/catarina-devon.jpg"
+  },
+  {
+    "index": 460,
+    "nama": "Monkey D. Luffy",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/monkey-d.-luffy.jpg"
+  },
+  {
+    "index": 461,
+    "nama": "Saldeath",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/saldeath.jpg"
+  },
+  {
+    "index": 462,
+    "nama": "Daisy",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/daisy.jpg"
+  },
+  {
+    "index": 463,
+    "nama": "Dellinger",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/dellinger.jpg"
+  },
+  {
+    "index": 464,
+    "nama": "Ahho Desunen IX",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/ahho-desunen-ix.jpg"
+  },
+  {
+    "index": 465,
+    "nama": "Daz Bones",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/daz-bones.jpg"
+  },
+  {
+    "index": 466,
+    "nama": "Gyro",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/gyro.jpg"
+  },
+  {
+    "index": 467,
+    "nama": "Sabo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/sabo.jpg"
+  },
+  {
+    "index": 468,
+    "nama": "Gram",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/gram.jpg"
+  },
+  {
+    "index": 469,
+    "nama": "Ippon-Matsu",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/ippon-matsu.jpg"
+  },
+  {
+    "index": 470,
+    "nama": "Outlook III",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/outlook-iii-.jpg"
+  },
+  {
+    "index": 471,
+    "nama": "Olive",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/olive.jpg"
+  },
+  {
+    "index": 472,
+    "nama": "Rockstar",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/rockstar-.jpg"
+  },
+  {
+    "index": 473,
+    "nama": "Spandam",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/spandam.jpg"
+  },
+  {
+    "index": 474,
+    "nama": "Mochi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/mochi.jpg"
+  },
+  {
+    "index": 475,
+    "nama": "Patty",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/patty.jpg"
+  },
+  {
+    "index": 476,
+    "nama": "Sky Boss Gedatsu",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/sky-boss-gedatsu.jpg"
+  },
+  {
+    "index": 477,
+    "nama": "Saint Jalmack",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/saint-jalmack.jpg"
+  },
+  {
+    "index": 478,
+    "nama": "Ryudo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/ryudo.jpg"
+  },
+  {
+    "index": 479,
+    "nama": "Scorpion",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/scorpion-.jpg"
+  },
+  {
+    "index": 480,
+    "nama": "Ikaros Much",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/ikaros-much-.jpg"
+  },
+  {
+    "index": 481,
+    "nama": "Haritsu Kendiyo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/haritsu-kendiyo-.jpg"
+  },
+  {
+    "index": 482,
+    "nama": "Jaguar D. Saul",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/jaguar-d.-saul-.jpg"
+  },
+  {
+    "index": 483,
+    "nama": "Charlotte Newsan",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/charlotte-newsan.jpg"
+  },
+  {
+    "index": 484,
+    "nama": "Sengoku",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/sengoku.jpg"
+  },
+  {
+    "index": 485,
+    "nama": "Jewelry Bonney",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/jewelry-bonney.jpg"
+  },
+  {
+    "index": 486,
+    "nama": "Brindo Achino",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/brindo-achino.jpg"
+  },
+  {
+    "index": 487,
+    "nama": "Pekkori",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/pekkori.jpg"
+  },
+  {
+    "index": 488,
+    "nama": "Laki",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/laki.jpg"
+  },
+  {
+    "index": 489,
+    "nama": "Terry Gilteo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/terry-gilteo-.jpg"
+  },
+  {
+    "index": 490,
+    "nama": "Dip",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/dip.jpg"
+  },
+  {
+    "index": 491,
+    "nama": "Yoshimoto",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/yoshimoto.jpg"
+  },
+  {
+    "index": 492,
+    "nama": "Sayo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/sayo.jpg"
+  },
+  {
+    "index": 493,
+    "nama": "Kumadori",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/kumadori-.jpg"
+  },
+  {
+    "index": 494,
+    "nama": "Kadar",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/kadar.jpg"
+  },
+  {
+    "index": 495,
+    "nama": "Lina",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/lina-.jpg"
+  },
+  {
+    "index": 496,
+    "nama": "Donquixote Doflamingo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/donquixote-doflamingo.jpg"
+  },
+  {
+    "index": 497,
+    "nama": "Blue Fan",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/blue-fan.jpg"
+  },
+  {
+    "index": 498,
+    "nama": "Bastille",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/bastille.jpg"
+  },
+  {
+    "index": 499,
+    "nama": "Hatchan",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/hatchan.jpg"
+  },
+  {
+    "index": 500,
+    "nama": "Kuroobi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/kuroobi-.jpg"
+  },
+  {
+    "index": 501,
+    "nama": "Nefertari Cobra",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/nefertari-cobra.jpg"
+  },
+  {
+    "index": 502,
+    "nama": "Maccus",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/maccus.jpg"
+  },
+  {
+    "index": 503,
+    "nama": "Benn Beckman",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/benn-beckman-.jpg"
+  },
+  {
+    "index": 504,
+    "nama": "Peeply Lulu",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/peeply-lulu-.jpg"
+  },
+  {
+    "index": 505,
+    "nama": "Haredas",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/haredas.jpg"
+  },
+  {
+    "index": 506,
+    "nama": "Jean Bart",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/jean-bart-.jpg"
+  },
+  {
+    "index": 507,
+    "nama": "Boa Hancock",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/boa-hancock.jpg"
+  },
+  {
+    "index": 508,
+    "nama": "Charlotte Newshi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/charlotte-newshi.jpg"
+  },
+  {
+    "index": 509,
+    "nama": "Isoka",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/isoka.jpg"
+  },
+  {
+    "index": 510,
+    "nama": "Don Krieg",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/don-krieg.jpg"
+  },
+  {
+    "index": 511,
+    "nama": "Shinpachi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/shinpachi.jpg"
+  },
+  {
+    "index": 512,
+    "nama": "Splash",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/splash-.jpg"
+  },
+  {
+    "index": 513,
+    "nama": "Bushon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/bushon-.jpg"
+  },
+  {
+    "index": 514,
+    "nama": "Kong",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/kong.jpg"
+  },
+  {
+    "index": 515,
+    "nama": "Take",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/take.jpg"
+  },
+  {
+    "index": 516,
+    "nama": "Elmy",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/elmy.jpg"
+  },
+  {
+    "index": 517,
+    "nama": "Chabo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/chabo.jpg"
+  },
+  {
+    "index": 518,
+    "nama": "Trafalgar Law",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/trafalgar-law.jpg"
+  },
+  {
+    "index": 519,
+    "nama": "Holy",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/holy-.jpg"
+  },
+  {
+    "index": 520,
+    "nama": "Mocha",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/mocha.jpg"
+  },
+  {
+    "index": 521,
+    "nama": "Jorge",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/jorge.jpg"
+  },
+  {
+    "index": 522,
+    "nama": "Mr. 7",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/mr.-7.jpg"
+  },
+  {
+    "index": 523,
+    "nama": "Arlong",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/arlong.jpg"
+  },
+  {
+    "index": 524,
+    "nama": "Blenheim",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/blenheim.jpg"
+  },
+  {
+    "index": 525,
+    "nama": "Baby 5",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/baby-5.jpg"
+  },
+  {
+    "index": 526,
+    "nama": "Samurai Ryuma",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/samurai-ryuma.jpg"
+  },
+  {
+    "index": 527,
+    "nama": "Billy",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/billy-.jpg"
+  },
+  {
+    "index": 528,
+    "nama": "Zap",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/zap.jpg"
+  },
+  {
+    "index": 529,
+    "nama": "Lacuba",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/lacuba.jpg"
+  },
+  {
+    "index": 530,
+    "nama": "Rampo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/rampo.jpg"
+  },
+  {
+    "index": 531,
+    "nama": "Siam",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/siam.jpg"
+  },
+  {
+    "index": 532,
+    "nama": "Usopp (young)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/usopp-(young).jpg"
+  },
+  {
+    "index": 533,
+    "nama": "Absalom",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/absalom.jpg"
+  },
+  {
+    "index": 534,
+    "nama": "Chaka the Jackal",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/chaka-the-jackal.jpg"
+  },
+  {
+    "index": 535,
+    "nama": "Blueno",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/blueno.jpg"
+  },
+  {
+    "index": 536,
+    "nama": "Tamagon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/tamagon.jpg"
+  },
+  {
+    "index": 537,
+    "nama": "Van Ogre",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/van-ogre.jpg"
+  },
+  {
+    "index": 538,
+    "nama": "Saint Charloss",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/saint-charloss-.jpg"
+  },
+  {
+    "index": 539,
+    "nama": "Joke",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/joke-.jpg"
+  },
+  {
+    "index": 540,
+    "nama": "Tilestone",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/tilestone.jpg"
+  },
+  {
+    "index": 541,
+    "nama": "Sadie",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/sadie.jpg"
+  },
+  {
+    "index": 542,
+    "nama": "Stelly",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/stelly-.jpg"
+  },
+  {
+    "index": 543,
+    "nama": "Charlotte Poire",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/charlotte-poire.jpg"
+  },
+  {
+    "index": 544,
+    "nama": "Coby",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/coby.jpg"
+  },
+  {
+    "index": 545,
+    "nama": "Fukuro",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/fukuro.jpg"
+  },
+  {
+    "index": 546,
+    "nama": "Hannyabal",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/hannyabal.jpg"
+  },
+  {
+    "index": 547,
+    "nama": "Abellon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/abellon.jpg"
+  },
+  {
+    "index": 548,
+    "nama": "Koze",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/koze.jpg"
+  },
+  {
+    "index": 549,
+    "nama": "Bluejam",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/bluejam.jpg"
+  },
+  {
+    "index": 550,
+    "nama": "Charlotte Lingling",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/charlotte-lingling.jpg"
+  },
+  {
+    "index": 551,
+    "nama": "Zaba",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/zaba.jpg"
+  },
+  {
+    "index": 552,
+    "nama": "Bao",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/bao-.jpg"
+  },
+  {
+    "index": 553,
+    "nama": "Pell the Falcon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/pell-the-falcon.jpg"
+  },
+  {
+    "index": 554,
+    "nama": "Spandine",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/spandine.jpg"
+  },
+  {
+    "index": 555,
+    "nama": "Diesel",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/diesel.jpg"
+  },
+  {
+    "index": 556,
+    "nama": "Gyoru",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/gyoru-.jpg"
+  },
+  {
+    "index": 557,
+    "nama": "Squad",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/squad.jpg"
+  },
+  {
+    "index": 558,
+    "nama": "Mitsuboshi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/mitsuboshi-.jpg"
+  },
+  {
+    "index": 559,
+    "nama": "Troff",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/troff.jpg"
+  },
+  {
+    "index": 560,
+    "nama": "Kebi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/kebi.jpg"
+  },
+  {
+    "index": 561,
+    "nama": "Ririka",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/ririka.jpg"
+  },
+  {
+    "index": 562,
+    "nama": "Judy",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/judy-.jpg"
+  },
+  {
+    "index": 563,
+    "nama": "Albion",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/albion.jpg"
+  },
+  {
+    "index": 564,
+    "nama": "Yosaku",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/yosaku-.jpg"
+  },
+  {
+    "index": 565,
+    "nama": "Oars",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/oars.jpg"
+  },
+  {
+    "index": 566,
+    "nama": "Curly Dadan",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/curly-dadan.jpg"
+  },
+  {
+    "index": 567,
+    "nama": "Aswa",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/aswa-.jpg"
+  },
+  {
+    "index": 568,
+    "nama": "Motzel",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/motzel.jpg"
+  },
+  {
+    "index": 569,
+    "nama": "Rakuyo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/rakuyo.jpg"
+  },
+  {
+    "index": 570,
+    "nama": "Kyros",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/kyros.jpg"
+  },
+  {
+    "index": 571,
+    "nama": "Charlotte Raisin",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/charlotte-raisin.jpg"
+  },
+  {
+    "index": 572,
+    "nama": "Luigia",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/luigia.jpg"
+  },
+  {
+    "index": 573,
+    "nama": "Cavendish",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/cavendish.jpg"
+  },
+  {
+    "index": 574,
+    "nama": "Tamanegi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/tamanegi.jpg"
+  },
+  {
+    "index": 575,
+    "nama": "Macro",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/macro.jpg"
+  },
+  {
+    "index": 576,
+    "nama": "Rivers",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/rivers-.jpg"
+  },
+  {
+    "index": 577,
+    "nama": "Roshio",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/roshio.jpg"
+  },
+  {
+    "index": 578,
+    "nama": "Lacroix",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/lacroix-.jpg"
+  },
+  {
+    "index": 579,
+    "nama": "Flapper",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/flapper.jpg"
+  },
+  {
+    "index": 580,
+    "nama": "Marshall D. Teach",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/marshall-d.-teach.jpg"
+  },
+  {
+    "index": 581,
+    "nama": "Urouge",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/urouge.jpg"
+  },
+  {
+    "index": 582,
+    "nama": "Broggy the Red Ogre",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/broggy-the-red-ogre-.jpg"
+  },
+  {
+    "index": 583,
+    "nama": "Hamu",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/hamu.jpg"
+  },
+  {
+    "index": 584,
+    "nama": "Manjaro",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/manjaro.jpg"
+  },
+  {
+    "index": 585,
+    "nama": "Boa Sandersonia",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/boa-sandersonia.jpg"
+  },
+  {
+    "index": 586,
+    "nama": "Chinjao",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/chinjao.jpg"
+  },
+  {
+    "index": 587,
+    "nama": "Sharingle",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/sharingle.jpg"
+  },
+  {
+    "index": 588,
+    "nama": "Franky (young)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/franky-(young).jpg"
+  },
+  {
+    "index": 589,
+    "nama": "Charlotte Joscarpone",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/charlotte-joscarpone.jpg"
+  },
+  {
+    "index": 590,
+    "nama": "Ahho Zurako",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/ahho-zurako.jpg"
+  },
+  {
+    "index": 591,
+    "nama": "Whitey Bay",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/whitey-bay.jpg"
+  },
+  {
+    "index": 592,
+    "nama": "Hildon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/hildon-.jpg"
+  },
+  {
+    "index": 593,
+    "nama": "Charlotte Nougat",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/charlotte-nougat.jpg"
+  },
+  {
+    "index": 594,
+    "nama": "Marguerite",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/marguerite.jpg"
+  },
+  {
+    "index": 595,
+    "nama": "Charlotte Dosmarche",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/charlotte-dosmarche.jpg"
+  },
+  {
+    "index": 596,
+    "nama": "Tansui",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/tansui.jpg"
+  },
+  {
+    "index": 597,
+    "nama": "Broccoli",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/broccoli.jpg"
+  },
+  {
+    "index": 598,
+    "nama": "Yuya",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/yuya.jpg"
+  },
+  {
+    "index": 599,
+    "nama": "Vito",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/vito.jpg"
+  },
+  {
+    "index": 600,
+    "nama": "Princess Mansherry",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/princess-mansherry.jpg"
+  },
+  {
+    "index": 601,
+    "nama": "Viola",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/viola.jpg"
+  },
+  {
+    "index": 602,
+    "nama": "Genbo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/genbo.jpg"
+  },
+  {
+    "index": 603,
+    "nama": "Emporio Iva (female form)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/emporio-iva-(female-form).jpg"
+  },
+  {
+    "index": 604,
+    "nama": "Sabo (young)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/sabo-(young).jpg"
+  },
+  {
+    "index": 605,
+    "nama": "McKinley",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/mckinley.jpg"
+  },
+  {
+    "index": 606,
+    "nama": "Pascia",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/pascia.jpg"
+  },
+  {
+    "index": 607,
+    "nama": "Dick the Mountain Whale",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/dick-the-mountain-whale.jpg"
+  },
+  {
+    "index": 608,
+    "nama": "Crocodile",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/crocodile.jpg"
+  },
+  {
+    "index": 609,
+    "nama": "Maria Napole",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/maria-napole.jpg"
+  },
+  {
+    "index": 610,
+    "nama": "Amadov",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/amadov.jpg"
+  },
+  {
+    "index": 611,
+    "nama": "Calico Yorki",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/calico-yorki.jpg"
+  },
+  {
+    "index": 612,
+    "nama": "Kodama",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/kodama-.jpg"
+  },
+  {
+    "index": 613,
+    "nama": "Maynard",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/maynard.jpg"
+  },
+  {
+    "index": 614,
+    "nama": "Iron Boy Scotch",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/iron-boy-scotch.jpg"
+  },
+  {
+    "index": 615,
+    "nama": "SkyRider Shura",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/skyrider-shura.jpg"
+  },
+  {
+    "index": 616,
+    "nama": "Meroie",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/meroie-.jpg"
+  },
+  {
+    "index": 617,
+    "nama": "Zucca",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/zucca.jpg"
+  },
+  {
+    "index": 618,
+    "nama": "Bartolomeo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/bartolomeo.jpg"
+  },
+  {
+    "index": 619,
+    "nama": "Shu",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/shu.jpg"
+  },
+  {
+    "index": 620,
+    "nama": "Dr. Potsun",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/dr.-potsun.jpg"
+  },
+  {
+    "index": 621,
+    "nama": "Charlotte Nusstorte",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/charlotte-nusstorte.jpg"
+  },
+  {
+    "index": 622,
+    "nama": "Sora",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/sora.jpg"
+  },
+  {
+    "index": 623,
+    "nama": "Nero",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/nero.jpg"
+  },
+  {
+    "index": 624,
+    "nama": "Calgara",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/calgara.jpg"
+  },
+  {
+    "index": 625,
+    "nama": "Kairiken",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/kairiken-.jpg"
+  },
+  {
+    "index": 626,
+    "nama": "Onigumo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/onigumo-.jpg"
+  },
+  {
+    "index": 627,
+    "nama": "Crocus",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/crocus.jpg"
+  },
+  {
+    "index": 628,
+    "nama": "Blood-Splatterer Coribou",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/blood-splatterer-coribou.jpg"
+  },
+  {
+    "index": 629,
+    "nama": "Leo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/leo-.jpg"
+  },
+  {
+    "index": 630,
+    "nama": "Itomimizu",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/itomimizu.jpg"
+  },
+  {
+    "index": 631,
+    "nama": "Harisenbon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/harisenbon.jpg"
+  },
+  {
+    "index": 632,
+    "nama": "Lulis",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/lulis.jpg"
+  },
+  {
+    "index": 633,
+    "nama": "Little Oars Jr",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/little-oars-jr.jpg"
+  },
+  {
+    "index": 634,
+    "nama": "Portgas D. Rouge",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/portgas-d.-rouge.jpg"
+  },
+  {
+    "index": 635,
+    "nama": "Minister of the Left",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/minister-of-the-left.jpg"
+  },
+  {
+    "index": 636,
+    "nama": "Boa Marigold (young)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/boa-marigold-(young).jpg"
+  },
+  {
+    "index": 637,
+    "nama": "Gonbe",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/gonbe-.jpg"
+  },
+  {
+    "index": 638,
+    "nama": "Kairen",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/kairen-.jpg"
+  },
+  {
+    "index": 639,
+    "nama": "Porchemy",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/porchemy.jpg"
+  },
+  {
+    "index": 640,
+    "nama": "Miss Catharine",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/miss-catharine-.jpg"
+  },
+  {
+    "index": 641,
+    "nama": "Faracia",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/faracia.jpg"
+  },
+  {
+    "index": 642,
+    "nama": "Aladdin",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/aladdin.jpg"
+  },
+  {
+    "index": 643,
+    "nama": "Sam",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/sam.jpg"
+  },
+  {
+    "index": 644,
+    "nama": "Akibi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/akibi.jpg"
+  },
+  {
+    "index": 645,
+    "nama": "Chip",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/chip.jpg"
+  },
+  {
+    "index": 646,
+    "nama": "Woop Slap",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/woop-slap-.jpg"
+  },
+  {
+    "index": 647,
+    "nama": "Aristocroc",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/aristocroc.jpg"
+  },
+  {
+    "index": 648,
+    "nama": "Saint Shalulia",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/saint-shalulia-.jpg"
+  },
+  {
+    "index": 649,
+    "nama": "Moscato Charlotte",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/moscato-charlotte.jpg"
+  },
+  {
+    "index": 650,
+    "nama": "Magra",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/magra.jpg"
+  },
+  {
+    "index": 651,
+    "nama": "Miss Monday",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/miss-monday-.jpg"
+  },
+  {
+    "index": 652,
+    "nama": "Rice Rice",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/rice-rice-.jpg"
+  },
+  {
+    "index": 653,
+    "nama": "Inuarashi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/inuarashi.jpg"
+  },
+  {
+    "index": 654,
+    "nama": "Ain",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/ain.jpg"
+  },
+  {
+    "index": 655,
+    "nama": "Shirahoshi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/shirahoshi.jpg"
+  },
+  {
+    "index": 656,
+    "nama": "Marie",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/marie-.jpg"
+  },
+  {
+    "index": 657,
+    "nama": "Yonka Two",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/yonka-two.jpg"
+  },
+  {
+    "index": 658,
+    "nama": "Mr 11",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/mr-11.jpg"
+  },
+  {
+    "index": 659,
+    "nama": "Laffitte",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/laffitte.jpg"
+  },
+  {
+    "index": 660,
+    "nama": "Seto",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/seto-.jpg"
+  },
+  {
+    "index": 661,
+    "nama": "Wallem",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/wallem.jpg"
+  },
+  {
+    "index": 662,
+    "nama": "Mizuta Mawaritosuki",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/mizuta-mawaritosuki.jpg"
+  },
+  {
+    "index": 663,
+    "nama": "Inuppe",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/inuppe-.jpg"
+  },
+  {
+    "index": 664,
+    "nama": "Usopp",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/usopp.jpg"
+  },
+  {
+    "index": 665,
+    "nama": "Big Pan",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/big-pan.jpg"
+  },
+  {
+    "index": 666,
+    "nama": "Poppy",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/poppy.jpg"
+  },
+  {
+    "index": 667,
+    "nama": "Sharley",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/sharley.jpg"
+  },
+  {
+    "index": 668,
+    "nama": "Kingdew",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/kingdew.jpg"
+  },
+  {
+    "index": 669,
+    "nama": "Karasu",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/karasu.jpg"
+  },
+  {
+    "index": 670,
+    "nama": "Marilyn",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/marilyn.jpg"
+  },
+  {
+    "index": 671,
+    "nama": "Urashima",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/urashima.jpg"
+  },
+  {
+    "index": 672,
+    "nama": "Banchina",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/banchina-.jpg"
+  },
+  {
+    "index": 673,
+    "nama": "Scratchmen Apoo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/scratchmen-apoo.jpg"
+  },
+  {
+    "index": 674,
+    "nama": "Jabra",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/jabra.jpg"
+  },
+  {
+    "index": 675,
+    "nama": "Disco",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/disco-.jpg"
+  },
+  {
+    "index": 676,
+    "nama": "Daikon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/daikon.jpg"
+  },
+  {
+    "index": 677,
+    "nama": "Hamburg",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/hamburg.jpg"
+  },
+  {
+    "index": 678,
+    "nama": "Girarin",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/girarin.jpg"
+  },
+  {
+    "index": 679,
+    "nama": "Poro",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/poro.jpg"
+  },
+  {
+    "index": 680,
+    "nama": "Zodia",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/zodia.jpg"
+  },
+  {
+    "index": 681,
+    "nama": "Fillonce",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/fillonce-.jpg"
+  },
+  {
+    "index": 682,
+    "nama": "Charlotte Flampe",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/charlotte-flampe.jpg"
+  },
+  {
+    "index": 683,
+    "nama": "McGuy",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/mcguy.jpg"
+  },
+  {
+    "index": 684,
+    "nama": "Stainless",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/stainless.jpg"
+  },
+  {
+    "index": 685,
+    "nama": "Charlotte Smoothie",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/charlotte-smoothie.jpg"
+  },
+  {
+    "index": 686,
+    "nama": "Caesar Clown",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/caesar-clown.jpg"
+  },
+  {
+    "index": 687,
+    "nama": "Mr. 5",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/mr.-5.jpg"
+  },
+  {
+    "index": 688,
+    "nama": "Amanda",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/amanda.jpg"
+  },
+  {
+    "index": 689,
+    "nama": "Heracles",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/heracles.jpg"
+  },
+  {
+    "index": 690,
+    "nama": "Lago",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/lago.jpg"
+  },
+  {
+    "index": 691,
+    "nama": "Boa Sandersonia (young)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/boa-sandersonia-(young).jpg"
+  },
+  {
+    "index": 692,
+    "nama": "Okome",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/okome.jpg"
+  },
+  {
+    "index": 693,
+    "nama": "Michael",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/michael-.jpg"
+  },
+  {
+    "index": 694,
+    "nama": "Hack",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/hack.jpg"
+  },
+  {
+    "index": 695,
+    "nama": "Kappa",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/kappa-.jpg"
+  },
+  {
+    "index": 696,
+    "nama": "Zadie",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/zadie.jpg"
+  },
+  {
+    "index": 697,
+    "nama": "Kuromarimo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/kuromarimo.jpg"
+  },
+  {
+    "index": 698,
+    "nama": "Ideaman",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/ideaman.jpg"
+  },
+  {
+    "index": 699,
+    "nama": "Sanjuan Wolf",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/sanjuan-wolf.jpg"
+  },
+  {
+    "index": 700,
+    "nama": "Kanjuro",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/kanjuro.jpg"
+  },
+  {
+    "index": 701,
+    "nama": "Keimi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/keimi.jpg"
+  },
+  {
+    "index": 702,
+    "nama": "Ayako",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/ayako-.jpg"
+  },
+  {
+    "index": 703,
+    "nama": "Captain John",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/captain-john-.jpg"
+  },
+  {
+    "index": 704,
+    "nama": "Dagama",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/dagama.jpg"
+  },
+  {
+    "index": 705,
+    "nama": "Portgas D. Ace",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/portgas-d.-ace.jpg"
+  },
+  {
+    "index": 706,
+    "nama": "Charlotte Chiboust",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/charlotte-chiboust.jpg"
+  },
+  {
+    "index": 707,
+    "nama": "Attach",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/attach.jpg"
+  },
+  {
+    "index": 708,
+    "nama": "Zeus",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/zeus.jpg"
+  },
+  {
+    "index": 709,
+    "nama": "Bartholomew Kuma",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/bartholomew-kuma.jpg"
+  },
+  {
+    "index": 710,
+    "nama": "Nin",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/nin-.jpg"
+  },
+  {
+    "index": 711,
+    "nama": "Monkey D. Dragon",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/monkey-d.-dragon.jpg"
+  },
+  {
+    "index": 712,
+    "nama": "Donquixote Rosinante",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/donquixote-rosinante.jpg"
+  },
+  {
+    "index": 713,
+    "nama": "Lip Doughty",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/lip-doughty.jpg"
+  },
+  {
+    "index": 714,
+    "nama": "Kibagaeru",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/kibagaeru.jpg"
+  },
+  {
+    "index": 715,
+    "nama": "Dracule Mihawk",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/dracule-mihawk.jpg"
+  },
+  {
+    "index": 716,
+    "nama": "Iceburg",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/iceburg-.jpg"
+  },
+  {
+    "index": 717,
+    "nama": "Shiryu",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/shiryu.jpg"
+  },
+  {
+    "index": 718,
+    "nama": "Gyaro",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/gyaro.jpg"
+  },
+  {
+    "index": 719,
+    "nama": "Bins",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/bins.jpg"
+  },
+  {
+    "index": 720,
+    "nama": "Monet",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/monet.jpg"
+  },
+  {
+    "index": 721,
+    "nama": "Shandia Chief",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/shandia-chief-.jpg"
+  },
+  {
+    "index": 722,
+    "nama": "Jube",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/jube.jpg"
+  },
+  {
+    "index": 723,
+    "nama": "Ms. Merry Christmas",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/ms.-merry-christmas.jpg"
+  },
+  {
+    "index": 724,
+    "nama": "Acilia",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/acilia.jpg"
+  },
+  {
+    "index": 725,
+    "nama": "Nezumi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/nezumi.jpg"
+  },
+  {
+    "index": 726,
+    "nama": "Sho",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/sho.jpg"
+  },
+  {
+    "index": 727,
+    "nama": "Brindo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/brindo.jpg"
+  },
+  {
+    "index": 728,
+    "nama": "Gyoro",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/gyoro-.jpg"
+  },
+  {
+    "index": 729,
+    "nama": "Monkey D. Garp",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/monkey-d.-garp.jpg"
+  },
+  {
+    "index": 730,
+    "nama": "Domino",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/domino.jpg"
+  },
+  {
+    "index": 731,
+    "nama": "Breed",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/breed.jpg"
+  },
+  {
+    "index": 732,
+    "nama": "Streusen",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/streusen.jpg"
+  },
+  {
+    "index": 733,
+    "nama": "Edward Weevil",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/edward-weevil.jpg"
+  },
+  {
+    "index": 734,
+    "nama": "Campacino",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/campacino.jpg"
+  },
+  {
+    "index": 735,
+    "nama": "Blamenco",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/blamenco.jpg"
+  },
+  {
+    "index": 736,
+    "nama": "Montblanc Norland",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/montblanc-norland.jpg"
+  },
+  {
+    "index": 737,
+    "nama": "Rapanui Pasqua",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/rapanui-pasqua.jpg"
+  },
+  {
+    "index": 738,
+    "nama": "Issho",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/issho.jpg"
+  },
+  {
+    "index": 739,
+    "nama": "Packy",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/packy.jpg"
+  },
+  {
+    "index": 740,
+    "nama": "Blondie",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/blondie.jpg"
+  },
+  {
+    "index": 741,
+    "nama": "Marco the Phoenix",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/marco-the-phoenix.jpg"
+  },
+  {
+    "index": 742,
+    "nama": "Ally",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/ally.jpg"
+  },
+  {
+    "index": 743,
+    "nama": "Ryuboshi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/ryuboshi.jpg"
+  },
+  {
+    "index": 744,
+    "nama": "Bobbin",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/bobbin.jpg"
+  },
+  {
+    "index": 745,
+    "nama": "Jango",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/jango.jpg"
+  },
+  {
+    "index": 746,
+    "nama": "Abdullah",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/abdullah.jpg"
+  },
+  {
+    "index": 747,
+    "nama": "Gatherine",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/gatherine.jpg"
+  },
+  {
+    "index": 748,
+    "nama": "Ishilly",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/ishilly-.jpg"
+  },
+  {
+    "index": 749,
+    "nama": "Kop",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/kop.jpg"
+  },
+  {
+    "index": 750,
+    "nama": "King",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/king.jpg"
+  },
+  {
+    "index": 751,
+    "nama": "Rongo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/rongo.jpg"
+  },
+  {
+    "index": 752,
+    "nama": "Ultra King",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/ultra-king-.jpg"
+  },
+  {
+    "index": 753,
+    "nama": "Kaya",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/kaya.jpg"
+  },
+  {
+    "index": 754,
+    "nama": "Kureha",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/kureha.jpg"
+  },
+  {
+    "index": 755,
+    "nama": "Norla",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/norla-.jpg"
+  },
+  {
+    "index": 756,
+    "nama": "Palms",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/palms.jpg"
+  },
+  {
+    "index": 757,
+    "nama": "Filllonce",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/filllonce.jpg"
+  },
+  {
+    "index": 758,
+    "nama": "Daigin",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/daigin.jpg"
+  },
+  {
+    "index": 759,
+    "nama": "Happa",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/happa.jpg"
+  },
+  {
+    "index": 760,
+    "nama": "Mekao",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/mekao.jpg"
+  },
+  {
+    "index": 761,
+    "nama": "Conis",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/conis.jpg"
+  },
+  {
+    "index": 762,
+    "nama": "Vinsmoke Judge",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/vinsmoke-judge.jpg"
+  },
+  {
+    "index": 763,
+    "nama": "Don Achino",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/don-achino.jpg"
+  },
+  {
+    "index": 764,
+    "nama": "Ishigo Shitemanna",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/ishigo-shitemanna-.jpg"
+  },
+  {
+    "index": 765,
+    "nama": "Inhel",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/inhel.jpg"
+  },
+  {
+    "index": 766,
+    "nama": "Minchy",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/minchy.jpg"
+  },
+  {
+    "index": 767,
+    "nama": "Baskerville-Bas",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/baskerville-bas-.jpg"
+  },
+  {
+    "index": 768,
+    "nama": "Caroline",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/caroline-.jpg"
+  },
+  {
+    "index": 769,
+    "nama": "Sapi",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/sapi-.jpg"
+  },
+  {
+    "index": 770,
+    "nama": "Masira",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/masira.jpg"
+  },
+  {
+    "index": 771,
+    "nama": "Lily Enstomach",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/lily-enstomach.jpg"
+  },
+  {
+    "index": 772,
+    "nama": "Eddy",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/eddy.jpg"
+  },
+  {
+    "index": 773,
+    "nama": "Rob Lucci",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/rob-lucci.jpg"
+  },
+  {
+    "index": 774,
+    "nama": "Kamakiri",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/kamakiri-.jpg"
+  },
+  {
+    "index": 775,
+    "nama": "Buffalo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/buffalo.jpg"
+  },
+  {
+    "index": 776,
+    "nama": "Stalker",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/stalker.jpg"
+  },
+  {
+    "index": 777,
+    "nama": "Bokuden",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/bokuden-.jpg"
+  },
+  {
+    "index": 778,
+    "nama": "Jobo",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/jobo-.jpg"
+  },
+  {
+    "index": 779,
+    "nama": "Bellamy the Hyena",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/bellamy-the-hyena.jpg"
+  },
+  {
+    "index": 780,
+    "nama": "Corgy",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/corgy.jpg"
+  },
+  {
+    "index": 781,
+    "nama": "Miss Friday",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/miss-friday.jpg"
+  },
+  {
+    "index": 782,
+    "nama": "Merry",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/merry.jpg"
+  },
+  {
+    "index": 783,
+    "nama": "Inazuma (male form)",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/inazuma-(male-form).jpg"
+  },
+  {
+    "index": 784,
+    "nama": "Akihiro",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/akihiro.jpg"
+  },
+  {
+    "index": 785,
+    "nama": "Puppu",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/puppu.jpg"
+  },
+  {
+    "index": 786,
+    "nama": "Hardy",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/hardy.jpg"
+  },
+  {
+    "index": 787,
+    "nama": "Paulie",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/paulie.jpg"
+  },
+  {
+    "index": 788,
+    "nama": "Mozambia",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/mozambia.jpg"
+  },
+  {
+    "index": 789,
+    "nama": "Erik",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/erik.jpg"
+  },
+  {
+    "index": 790,
+    "nama": "Ian",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/ian.jpg"
+  },
+  {
+    "index": 791,
+    "nama": "A.O",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/a.o.jpg"
+  },
+  {
+    "index": 792,
+    "nama": "Pappug",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/pappug.jpg"
+  },
+  {
+    "index": 793,
+    "nama": "Brandnew",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/brandnew.jpg"
+  },
+  {
+    "index": 794,
+    "nama": "Naguri",
+    "url": "https://raw.githubusercontent.com/ProjectPemuda/chan/refs/heads/main/lib_data/onepiece/naguri.jpg"
+  }
+]

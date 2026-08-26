@@ -1,0 +1,1 @@
+cd E:\SC BOT PRIBADI\database_restapi\chan && git add . && git commit -m "update aaaa" && git push origin main
